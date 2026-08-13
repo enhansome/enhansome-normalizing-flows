@@ -6,9 +6,9 @@
 
 <h4 align="center">
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,056 | 🐛 100 | 📅 2026-06-30
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,323 | 🐛 99 | 📅 2026-06-30
 [![Pull Requests Welcome](https://img.shields.io/badge/Pull%20Requests-welcome-brightgreen.svg?logo=github)](#-contributing)
-[![Link Check](https://github.com/janosh/awesome-normalizing-flows/actions/workflows/link-check.yml/badge.svg)](https://github.com/janosh/awesome-normalizing-flows/actions/workflows/link-check.yml) ⭐ 1,638 | 🐛 0 | 🌐 Python | 📅 2026-07-31
+[![Link Check](https://github.com/janosh/awesome-normalizing-flows/actions/workflows/link-check.yml/badge.svg)](https://github.com/janosh/awesome-normalizing-flows/actions/workflows/link-check.yml) ⭐ 1,637 | 🐛 0 | 🌐 Python | 📅 2026-07-31
 [![DOI](https://zenodo.org/badge/227366838.svg)](https://zenodo.org/badge/latestdoi/227366838)
 
 </h4>
@@ -22,7 +22,7 @@ A list of awesome resources for understanding and applying normalizing flows (NF
    </picture>
 </a>
 
-<sup>*Figure inspired by [Lilian Weng](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models). Created in [CeTZ](https://cetz-package.github.io). [View source](https://github.com/janosh/diagrams/blob/main/assets/normalizing-flow/normalizing-flow.typ) ⭐ 673 | 🐛 0 | 🌐 Typst | 📅 2026-08-05.*</sup>
+<sup>*Figure inspired by [Lilian Weng](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models). Created in [CeTZ](https://cetz-package.github.io). [View source](https://github.com/janosh/diagrams/blob/main/assets/normalizing-flow/normalizing-flow.typ) ⭐ 675 | 🐛 0 | 🌐 Typst | 📅 2026-08-05.*</sup>
 
 <br>
 
@@ -322,11 +322,11 @@ A list of awesome resources for understanding and applying normalizing flows (NF
 
 Zuko is used in [LAMPE](https://github.com/francois-rozet/lampe) ⭐ 137 | 🐛 0 | 🌐 Python | 📅 2024-08-21 to enable Likelihood-free AMortized Posterior Estimation with PyTorch.
 
-1. 2020-02-09 - [nflows](https://github.com/bayesiains/nflows) ⭐ 1,020 | 🐛 16 | 🌐 Python | 📅 2024-12-27 by [Bayesiains](https://homepages.inf.ed.ac.uk/imurray2/group)
+1. 2020-02-09 - [nflows](https://github.com/bayesiains/nflows) ⭐ 1,019 | 🐛 16 | 🌐 Python | 📅 2024-12-27 by [Bayesiains](https://homepages.inf.ed.ac.uk/imurray2/group)
      <img src="https://img.shields.io/github/stars/bayesiains/nflows" alt="GitHub repo stars" valign="middle" /><br>
    A suite of most of the SOTA methods using PyTorch. From an ML group in Edinburgh. They created the current SOTA spline flows. Almost as complete as you'll find from a single repo.
 
-2. 2020-01-28 - [normflows](https://github.com/VincentStimper/normalizing-flows) ⭐ 956 | 🐛 15 | 🌐 Python | 📅 2024-08-25 by [Vincent Stimper](https://github.com/VincentStimper)
+2. 2020-01-28 - [normflows](https://github.com/VincentStimper/normalizing-flows) ⭐ 955 | 🐛 15 | 🌐 Python | 📅 2024-08-25 by [Vincent Stimper](https://github.com/VincentStimper)
      <img src="https://img.shields.io/github/stars/VincentStimper/normalizing-flows" alt="GitHub repo stars" valign="middle" /><br>
    The library provides most of the common normalizing flow architectures. It also includes stochastic layers, flows on tori and spheres, and other tools that are particularly useful for applications to the physical sciences.
 
@@ -475,11 +475,11 @@ Zuko is used in [LAMPE](https://github.com/francois-rozet/lampe) ⭐ 137 | 🐛 
 Table 1 in the paper has a good comparison with traditional NFs.
 
 1. 2017-07-11 - [Normalizing Flows Overview](https://www.pymc.io/projects/examples/en/2022.12.0/variational_inference/normalizing_flows_overview.html) by PyMC3<br>
-   A very helpful notebook showcasing how to work with flows in practice and comparing it to PyMC3's NUTS-based HMC kernel. Based on [Theano](https://github.com/Theano/Theano) ⭐ 9,997 | 🐛 699 | 🌐 Python | 📅 2024-01-15.
+   A very helpful notebook showcasing how to work with flows in practice and comparing it to PyMC3's NUTS-based HMC kernel. Based on [Theano](https://github.com/Theano/Theano) ⭐ 9,998 | 🐛 699 | 🌐 Python | 📅 2024-01-15.
 
 2. 2017-03-21 - [NormFlows](https://github.com/andymiller/NormFlows) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2019-06-19 by Andy Miller
      <img src="https://img.shields.io/github/stars/andymiller/NormFlows" alt="GitHub repo stars" valign="middle" /><br>
-   Simple didactic example using [`autograd`](https://github.com/HIPS/autograd) ⭐ 7,521 | 🐛 181 | 🌐 Python | 📅 2026-08-10, so pretty low-level.
+   Simple didactic example using [`autograd`](https://github.com/HIPS/autograd) ⭐ 7,522 | 🐛 181 | 🌐 Python | 📅 2026-08-10, so pretty low-level.
 
 <br>
 
@@ -507,9 +507,9 @@ Table 1 in the paper has a good comparison with traditional NFs.
 See something that's missing from this list? PRs welcome! A good place to find new items for the Repos section is the [Normalizing Flows topic on GitHub](https://github.com/topics/normalizing-flows).
 
 Note: Don't edit the readme directly (it's auto-generated). Add your submission
-to the appropriate [`data/*.yml`](https://github.com/janosh/awesome-normalizing-flows/edit/main/data) ⭐ 1,638 | 🐛 0 | 🌐 Python | 📅 2026-07-31 file.
+to the appropriate [`data/*.yml`](https://github.com/janosh/awesome-normalizing-flows/edit/main/data) ⭐ 1,637 | 🐛 0 | 🌐 Python | 📅 2026-07-31 file.
 
-Papers should be peer-reviewed and published in a journal. If you're unsure if a paper or resource belongs in this list, feel free to [open an issue](https://github.com/janosh/awesome-normalizing-flows/issues/new) ⭐ 1,638 | 🐛 0 | 🌐 Python | 📅 2026-07-31 or [start a discussion](https://github.com/janosh/awesome-normalizing-flows/discussions) ⭐ 1,638 | 🐛 0 | 🌐 Python | 📅 2026-07-31. This repo is meant to be a community effort. Don't hesitate to voice an opinion.
+Papers should be peer-reviewed and published in a journal. If you're unsure if a paper or resource belongs in this list, feel free to [open an issue](https://github.com/janosh/awesome-normalizing-flows/issues/new) ⭐ 1,637 | 🐛 0 | 🌐 Python | 📅 2026-07-31 or [start a discussion](https://github.com/janosh/awesome-normalizing-flows/discussions) ⭐ 1,637 | 🐛 0 | 🌐 Python | 📅 2026-07-31. This repo is meant to be a community effort. Don't hesitate to voice an opinion.
 
 ***
 
