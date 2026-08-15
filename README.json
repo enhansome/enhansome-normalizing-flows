@@ -476,7 +476,7 @@
             "last_commit": "2026-08-04T04:33:37Z",
             "owner": "pyro-ppl",
             "repo": "pyro",
-            "stars": 9037
+            "stars": 9038
           }
         },
         {
@@ -487,7 +487,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-08T19:27:17Z",
+            "last_commit": "2026-08-15T14:33:56Z",
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
             "stars": 2854
@@ -504,7 +504,7 @@
             "last_commit": "2023-03-24T22:20:54Z",
             "owner": "RameenAbdal",
             "repo": "StyleFlow",
-            "stars": 2442
+            "stars": 2441
           }
         },
         {
@@ -518,7 +518,7 @@
             "last_commit": "2020-01-27T18:37:10Z",
             "owner": "karpathy",
             "repo": "pytorch-normalizing-flows",
-            "stars": 917
+            "stars": 918
           }
         },
         {
@@ -663,7 +663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T18:26:33.688Z",
+    "last_updated": "2026-08-15T17:48:34.865Z",
     "original_repository": "janosh/awesome-normalizing-flows",
     "original_repository_sha": "7ccf40b8bbd837ee3ce101af21ed1784d9aaa32a",
     "enhanced_repository": "enhansome/enhansome-normalizing-flows",
