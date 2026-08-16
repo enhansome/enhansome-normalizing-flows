@@ -14,7 +14,7 @@
             "last_commit": "2024-06-14T10:33:12Z",
             "owner": "zalandoresearch",
             "repo": "pytorch-ts",
-            "stars": 1370
+            "stars": 1371
           }
         },
         {
@@ -490,7 +490,7 @@
             "last_commit": "2026-08-15T14:33:56Z",
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2854
+            "stars": 2855
           }
         },
         {
@@ -663,7 +663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T17:48:34.865Z",
+    "last_updated": "2026-08-16T17:47:47.861Z",
     "original_repository": "janosh/awesome-normalizing-flows",
     "original_repository_sha": "7ccf40b8bbd837ee3ce101af21ed1784d9aaa32a",
     "enhanced_repository": "enhansome/enhansome-normalizing-flows",
