@@ -605,7 +605,7 @@
                 "last_commit": "2026-08-17T19:38:27Z",
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2859
+                "stars": 2858
               }
             },
             {
@@ -799,7 +799,7 @@
                 "last_commit": "2024-01-15T03:16:24Z",
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 9997
+                "stars": 9998
               }
             },
             {
@@ -827,7 +827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:43:19.116Z",
+    "last_updated": "2026-08-19T17:51:58.128Z",
     "original_repository": "janosh/awesome-normalizing-flows",
     "original_repository_id": 227366838,
     "original_repository_sha": "7ccf40b8bbd837ee3ce101af21ed1784d9aaa32a",
