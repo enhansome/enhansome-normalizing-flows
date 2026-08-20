@@ -6,7 +6,7 @@
 
 <h4 align="center">
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,754 | 🐛 102 | 📅 2026-08-18
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,165 | 🐛 105 | 📅 2026-08-18
 [![Pull Requests Welcome](https://img.shields.io/badge/Pull%20Requests-welcome-brightgreen.svg?logo=github)](#-contributing)
 [![Link Check](https://github.com/janosh/awesome-normalizing-flows/actions/workflows/link-check.yml/badge.svg)](https://github.com/janosh/awesome-normalizing-flows/actions/workflows/link-check.yml) ⭐ 1,636 | 🐛 0 | 🌐 Python | 📅 2026-07-31
 [![DOI](https://zenodo.org/badge/227366838.svg)](https://zenodo.org/badge/latestdoi/227366838)
@@ -260,7 +260,7 @@ A list of awesome resources for understanding and applying normalizing flows (NF
    Augments state space models with normalizing flows and thereby mitigates imprecisions stemming from idealized assumptions. Aimed at forecasting real-world data and handling varying levels of missing data. (Also available at [Amazon Science](https://amazon.science/publications/normalizing-kalman-filters-for-multivariate-time-series-analysis).)
 
 2. 2020-11-02 - [On the Sentence Embeddings from Pre-trained Language Models](https://aclweb.org/anthology/2020.emnlp-main.733) by Li, Zhou et al.<br>
-   Proposes to use flows to transform anisotropic sentence embedding distributions from BERT to a smooth and isotropic Gaussian, learned through unsupervised objective. Demonstrates performance gains over SOTA sentence embeddings on semantic textual similarity tasks. Code available at <https://github.com/bohanli/BERT-flow> ⭐ 535 | 🐛 12 | 🌐 Python | 📅 2021-05-19.
+   Proposes to use flows to transform anisotropic sentence embedding distributions from BERT to a smooth and isotropic Gaussian, learned through unsupervised objective. Demonstrates performance gains over SOTA sentence embeddings on semantic textual similarity tasks. Code available at <https://github.com/bohanli/BERT-flow> ⭐ 534 | 🐛 12 | 🌐 Python | 📅 2021-05-19.
 
 3. 2020-10-13 - [Targeted free energy estimation via learned mappings](https://aip.scitation.org/doi/10.1063/5.0018903) by Wirnsberger, Ballard et al.<br>
    Normalizing flows used to estimate free energy differences.
@@ -354,7 +354,7 @@ Zuko is used in [LAMPE](https://github.com/francois-rozet/lampe) ⭐ 137 | 🐛 
 
 ### <img src="assets/jax.svg" alt="JAX" height="20px">  JAX Packages
 
-1. 2021-04-12 - [Distrax](https://github.com/deepmind/distrax) ⭐ 650 | 🐛 59 | 🌐 Python | 📅 2026-07-30 by [DeepMind](https://deepmind.com)
+1. 2021-04-12 - [Distrax](https://github.com/deepmind/distrax) ⭐ 650 | 🐛 60 | 🌐 Python | 📅 2026-07-30 by [DeepMind](https://deepmind.com)
      <img src="https://img.shields.io/github/stars/deepmind/distrax" alt="GitHub repo stars" valign="middle" /><br>
    Distrax is a lightweight library of probability distributions and bijectors. It acts as a JAX-native re-implementation of a subset of TensorFlow Probability (TFP), with some new features and emphasis on extensibility.
 
@@ -395,7 +395,7 @@ Zuko is used in [LAMPE](https://github.com/francois-rozet/lampe) ⭐ 137 | 🐛 
 ### <img src="assets/pytorch.svg" alt="PyTorch" height="20px">  PyTorch Repos
 
 1. 2020-07-19 - [Normalizing Flows - Introduction (Part 1)](https://pyro.ai/examples/normalizing_flows_i) by [pyro.ai](https://pyro.ai)<br>
-   A tutorial about how to use the `pyro-ppl` library (based on PyTorch) to use Normalizing flows. They provide some SOTA methods including NSF and MAF. [Parts 2 and 3 coming later](https://github.com/pyro-ppl/pyro/issues/1992) ⭐ 9,039 | 🐛 283 | 🌐 Python | 📅 2026-08-04.
+   A tutorial about how to use the `pyro-ppl` library (based on PyTorch) to use Normalizing flows. They provide some SOTA methods including NSF and MAF. [Parts 2 and 3 coming later](https://github.com/pyro-ppl/pyro/issues/1992) ⭐ 9,039 | 🐛 284 | 🌐 Python | 📅 2026-08-04.
 
 2. 2021-08-21 - [NICE: Non-linear Independent Components Estimation](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/NICE_Non_linear_Independent_Components_Estimation) ⭐ 2,858 | 🐛 0 | 🌐 Python | 📅 2026-08-17 by Maxime Vandegar
      <img src="https://img.shields.io/github/stars/MaximeVandegar/Papers-in-100-Lines-of-Code" alt="GitHub repo stars" valign="middle" /><br>
@@ -441,7 +441,7 @@ Zuko is used in [LAMPE](https://github.com/francois-rozet/lampe) ⭐ 137 | 🐛 
 
 ### <img src="assets/tensorflow.svg" alt="TensorFlow" height="20px">  TensorFlow Repos
 
-1. 2019-07-19 - [BERT-flow](https://github.com/bohanli/BERT-flow) ⭐ 535 | 🐛 12 | 🌐 Python | 📅 2021-05-19 by Bohan Li
+1. 2019-07-19 - [BERT-flow](https://github.com/bohanli/BERT-flow) ⭐ 534 | 🐛 12 | 🌐 Python | 📅 2021-05-19 by Bohan Li
      <img src="https://img.shields.io/github/stars/bohanli/BERT-flow" alt="GitHub repo stars" valign="middle" /><br>
    TensorFlow implementation of "On the Sentence Embeddings from Pre-trained Language Models" (EMNLP 2020).
 
@@ -513,4 +513,4 @@ Papers should be peer-reviewed and published in a journal. If you're unsure if a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
