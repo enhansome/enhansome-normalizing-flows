@@ -15,7 +15,7 @@
             "last_commit": "2024-06-14T10:33:12Z",
             "owner": "zalandoresearch",
             "repo": "pytorch-ts",
-            "stars": 1371
+            "stars": 1370
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2021-08-19T17:02:01Z",
             "owner": "nicola-decao",
             "repo": "BNAF",
-            "stars": 184
+            "stars": 183
           }
         },
         {
@@ -398,7 +398,7 @@
                 "last_commit": "2024-08-25T09:44:06Z",
                 "owner": "VincentStimper",
                 "repo": "normalizing-flows",
-                "stars": 955
+                "stars": 956
               }
             },
             {
@@ -413,7 +413,7 @@
                 "last_commit": "2024-07-03T11:58:12Z",
                 "owner": "vislearn",
                 "repo": "FrEIA",
-                "stars": 861
+                "stars": 860
               }
             },
             {
@@ -465,7 +465,7 @@
                 "last_commit": "2026-07-30T09:37:11Z",
                 "owner": "google-deepmind",
                 "repo": "distrax",
-                "stars": 650
+                "stars": 649
               }
             },
             {
@@ -590,7 +590,7 @@
                 "last_commit": "2026-08-04T04:33:37Z",
                 "owner": "pyro-ppl",
                 "repo": "pyro",
-                "stars": 9039
+                "stars": 9038
               }
             },
             {
@@ -605,7 +605,7 @@
                 "last_commit": "2026-08-17T19:38:27Z",
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2858
+                "stars": 2859
               }
             },
             {
@@ -827,7 +827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T17:57:47.835Z",
+    "last_updated": "2026-08-21T17:57:59.642Z",
     "original_repository": "janosh/awesome-normalizing-flows",
     "original_repository_id": 227366838,
     "original_repository_sha": "7ccf40b8bbd837ee3ce101af21ed1784d9aaa32a",
