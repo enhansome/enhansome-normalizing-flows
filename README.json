@@ -590,7 +590,7 @@
                 "last_commit": "2026-08-04T04:33:37Z",
                 "owner": "pyro-ppl",
                 "repo": "pyro",
-                "stars": 9038
+                "stars": 9037
               }
             },
             {
@@ -605,7 +605,7 @@
                 "last_commit": "2026-08-17T19:38:27Z",
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2860
+                "stars": 2863
               }
             },
             {
@@ -827,7 +827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T17:49:23.279Z",
+    "last_updated": "2026-08-23T17:48:38.956Z",
     "original_repository": "janosh/awesome-normalizing-flows",
     "original_repository_id": 227366838,
     "original_repository_sha": "7ccf40b8bbd837ee3ce101af21ed1784d9aaa32a",
