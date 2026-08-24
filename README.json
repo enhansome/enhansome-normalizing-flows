@@ -373,6 +373,21 @@
           "children": [
             {
               "node_type": "item",
+              "title": "2022-05-21 - Zuko",
+              "description": "by François Rozet Zuko is a Python package that implements normalizing flows in PyTorch. It relies heavily on PyTorch's built-in distributions and transformations, which makes the implementation concise, easy to understand and extend. The API is fully documented with references to the original papers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 549658956,
+                "language": "Python",
+                "last_commit": "2026-03-10T08:38:48Z",
+                "owner": "probabilists",
+                "repo": "zuko",
+                "stars": 466
+              }
+            },
+            {
+              "node_type": "item",
               "title": "2020-02-09 - nflows",
               "description": "by Bayesiains A suite of most of the SOTA methods using PyTorch. From an ML group in Edinburgh. They created the current SOTA spline flows. Almost as complete as you'll find from a single repo.",
               "children": [],
@@ -443,13 +458,35 @@
                 "last_commit": "2026-07-22T20:13:08Z",
                 "owner": "thoglu",
                 "repo": "jammy_flows",
-                "stars": 46
+                "stars": 47
               }
             }
           ],
           "description": "Zuko is used in LAMPE to enable Likelihood-free AMortized Posterior Estimation with PyTorch.",
           "node_type": "group",
           "title": "PyTorch Packages"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "2018-06-22 - TensorFlow Probability",
+              "description": "by Google Large first-party library that offers RNVP, MAF among other autoregressive models plus a collection of composable bijectors.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 108053674,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-06T22:18:55Z",
+                "owner": "tensorflow",
+                "repo": "probability",
+                "stars": 4427
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "TensorFlow Packages"
         },
         {
           "children": [
@@ -465,7 +502,7 @@
                 "last_commit": "2026-07-30T09:37:11Z",
                 "owner": "google-deepmind",
                 "repo": "distrax",
-                "stars": 649
+                "stars": 648
               }
             },
             {
@@ -789,6 +826,21 @@
           "children": [
             {
               "node_type": "item",
+              "title": "2018-06-11 - Destructive Deep Learning (ddl)",
+              "description": "by David Inouye Code base for the paper Deep Density Destructors by Inouye & Ravikumar (2018). An entire suite of iterative methods including tree-based as well as Gaussianization methods which are similar to normalizing flows except they converge iteratively instead of fully parametrized. That is, they still use bijective transforms, compute the Jacobian, check the likelihood and you can still sample and get probability density estimates. The only difference is you repeat the following two steps until convergence:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 136948292,
+                "language": "Python",
+                "last_commit": "2020-10-04T09:06:40Z",
+                "owner": "davidinouye",
+                "repo": "destructive-deep-learning",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
               "title": "2017-07-11 - Normalizing Flows Overview",
               "description": "by PyMC3 A very helpful notebook showcasing how to work with flows in practice and comparing it to PyMC3's NUTS-based HMC kernel. Based on Theano.",
               "children": [],
@@ -827,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:48:38.956Z",
+    "last_updated": "2026-08-24T14:14:26.346Z",
     "original_repository": "janosh/awesome-normalizing-flows",
     "original_repository_id": 227366838,
     "original_repository_sha": "7ccf40b8bbd837ee3ce101af21ed1784d9aaa32a",
