@@ -6,7 +6,7 @@
 
 <h4 align="center">
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,514 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,562 | 🐛 106 | 📅 2026-08-21
 [![Pull Requests Welcome](https://img.shields.io/badge/Pull%20Requests-welcome-brightgreen.svg?logo=github)](#-contributing)
 [![Link Check](https://github.com/janosh/awesome-normalizing-flows/actions/workflows/link-check.yml/badge.svg)](https://github.com/janosh/awesome-normalizing-flows/actions/workflows/link-check.yml) ⭐ 1,637 | 🐛 0 | 🌐 Python | 📅 2026-07-31
 [![DOI](https://zenodo.org/badge/227366838.svg)](https://zenodo.org/badge/latestdoi/227366838)
@@ -479,7 +479,7 @@ Table 1 in the paper has a good comparison with traditional NFs.
 
 2. 2017-03-21 - [NormFlows](https://github.com/andymiller/NormFlows) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2019-06-19 by Andy Miller
      <img src="https://img.shields.io/github/stars/andymiller/NormFlows" alt="GitHub repo stars" valign="middle" /><br>
-   Simple didactic example using [`autograd`](https://github.com/HIPS/autograd) ⭐ 7,524 | 🐛 181 | 🌐 Python | 📅 2026-08-17, so pretty low-level.
+   Simple didactic example using [`autograd`](https://github.com/HIPS/autograd) ⭐ 7,524 | 🐛 182 | 🌐 Python | 📅 2026-08-24, so pretty low-level.
 
 <br>
 
