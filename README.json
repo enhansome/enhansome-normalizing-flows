@@ -413,7 +413,7 @@
                 "last_commit": "2024-08-25T09:44:06Z",
                 "owner": "VincentStimper",
                 "repo": "normalizing-flows",
-                "stars": 956
+                "stars": 957
               }
             },
             {
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T17:59:28.403Z",
+    "last_updated": "2026-08-25T06:01:05.680Z",
     "original_repository": "janosh/awesome-normalizing-flows",
     "original_repository_id": 227366838,
     "original_repository_sha": "7ccf40b8bbd837ee3ce101af21ed1784d9aaa32a",
