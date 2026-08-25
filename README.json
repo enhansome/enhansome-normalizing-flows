@@ -596,7 +596,7 @@
                 "archived": false,
                 "id": 426661999,
                 "language": "Julia",
-                "last_commit": "2026-08-18T09:13:57Z",
+                "last_commit": "2026-08-25T09:28:13Z",
                 "owner": "impICNF",
                 "repo": "ContinuousNormalizingFlows.jl",
                 "stars": 27
@@ -657,7 +657,7 @@
                 "last_commit": "2023-03-24T22:20:54Z",
                 "owner": "RameenAbdal",
                 "repo": "StyleFlow",
-                "stars": 2441
+                "stars": 2442
               }
             },
             {
@@ -672,7 +672,7 @@
                 "last_commit": "2020-01-27T18:37:10Z",
                 "owner": "karpathy",
                 "repo": "pytorch-normalizing-flows",
-                "stars": 918
+                "stars": 919
               }
             },
             {
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:01:05.680Z",
+    "last_updated": "2026-08-25T17:58:09.519Z",
     "original_repository": "janosh/awesome-normalizing-flows",
     "original_repository_id": 227366838,
     "original_repository_sha": "7ccf40b8bbd837ee3ce101af21ed1784d9aaa32a",
