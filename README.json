@@ -559,7 +559,7 @@
                 "archived": false,
                 "id": 735423333,
                 "language": "Python",
-                "last_commit": "2026-08-08T11:14:17Z",
+                "last_commit": "2026-08-26T17:16:29Z",
                 "owner": "kokabsc",
                 "repo": "gwkokab",
                 "stars": 28
@@ -639,10 +639,10 @@
                 "archived": false,
                 "id": 307222796,
                 "language": "Python",
-                "last_commit": "2026-08-17T19:38:27Z",
+                "last_commit": "2026-08-26T19:16:28Z",
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2863
+                "stars": 2864
               }
             },
             {
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:58:09.519Z",
+    "last_updated": "2026-08-26T19:24:48.281Z",
     "original_repository": "janosh/awesome-normalizing-flows",
     "original_repository_id": 227366838,
     "original_repository_sha": "7ccf40b8bbd837ee3ce101af21ed1784d9aaa32a",
