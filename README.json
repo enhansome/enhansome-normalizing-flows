@@ -480,7 +480,7 @@
                 "last_commit": "2026-08-06T22:18:55Z",
                 "owner": "tensorflow",
                 "repo": "probability",
-                "stars": 4427
+                "stars": 4428
               }
             }
           ],
@@ -559,7 +559,7 @@
                 "archived": false,
                 "id": 735423333,
                 "language": "Python",
-                "last_commit": "2026-08-26T17:16:29Z",
+                "last_commit": "2026-08-27T05:52:17Z",
                 "owner": "kokabsc",
                 "repo": "gwkokab",
                 "stars": 28
@@ -624,10 +624,10 @@
                 "archived": false,
                 "id": 94506832,
                 "language": "Python",
-                "last_commit": "2026-08-04T04:33:37Z",
+                "last_commit": "2026-08-27T10:37:02Z",
                 "owner": "pyro-ppl",
                 "repo": "pyro",
-                "stars": 9037
+                "stars": 9042
               }
             },
             {
@@ -642,7 +642,7 @@
                 "last_commit": "2026-08-26T19:16:28Z",
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2864
+                "stars": 2867
               }
             },
             {
@@ -879,9 +879,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:24:48.281Z",
-    "original_repository": "janosh/awesome-normalizing-flows",
-    "original_repository_id": 227366838,
+    "last_updated": "2026-08-27T11:52:56.361Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 227366838,
+      "language": "Python",
+      "last_commit": "2026-07-31T13:27:19Z",
+      "owner": "janosh",
+      "repo": "awesome-normalizing-flows",
+      "stars": 1637
+    },
     "original_repository_sha": "7ccf40b8bbd837ee3ce101af21ed1784d9aaa32a",
     "enhanced_repository": "enhansome/enhansome-normalizing-flows",
     "enhanced_repository_description": null,
