@@ -398,7 +398,7 @@
                 "last_commit": "2024-12-27T06:10:31Z",
                 "owner": "bayesiains",
                 "repo": "nflows",
-                "stars": 1019
+                "stars": 1020
               }
             },
             {
@@ -480,7 +480,7 @@
                 "last_commit": "2026-08-06T22:18:55Z",
                 "owner": "tensorflow",
                 "repo": "probability",
-                "stars": 4428
+                "stars": 4429
               }
             }
           ],
@@ -559,7 +559,7 @@
                 "archived": false,
                 "id": 735423333,
                 "language": "Python",
-                "last_commit": "2026-08-27T05:52:17Z",
+                "last_commit": "2026-08-27T17:54:43Z",
                 "owner": "kokabsc",
                 "repo": "gwkokab",
                 "stars": 28
@@ -624,10 +624,10 @@
                 "archived": false,
                 "id": 94506832,
                 "language": "Python",
-                "last_commit": "2026-08-27T10:37:02Z",
+                "last_commit": "2026-08-27T16:12:12Z",
                 "owner": "pyro-ppl",
                 "repo": "pyro",
-                "stars": 9042
+                "stars": 9045
               }
             },
             {
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:52:56.361Z",
+    "last_updated": "2026-08-28T01:36:52.646Z",
     "original_repository_info": {
       "archived": false,
       "id": 227366838,
