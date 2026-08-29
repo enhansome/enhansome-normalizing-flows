@@ -16,7 +16,8 @@
             "owner": "zalandoresearch",
             "repo": "pytorch-ts",
             "stars": 1370
-          }
+          },
+          "first_seen": "2026-08-29T01:06:53.776Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "openai",
             "repo": "iaf",
             "stars": 529
-          }
+          },
+          "first_seen": "2026-08-29T01:06:53.776Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "ksw0306",
             "repo": "FloWaveNet",
             "stars": 490
-          }
+          },
+          "first_seen": "2026-08-29T01:06:53.776Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "didriknielsen",
             "repo": "survae_flows",
             "stars": 292
-          }
+          },
+          "first_seen": "2026-08-29T01:06:53.776Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "johannbrehmer",
             "repo": "manifold-flow",
             "stars": 236
-          }
+          },
+          "first_seen": "2026-08-29T01:06:53.776Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "nicola-decao",
             "repo": "BNAF",
             "stars": 183
-          }
+          },
+          "first_seen": "2026-08-29T01:06:53.776Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "AWehenkel",
             "repo": "UMNN",
             "stars": 129
-          }
+          },
+          "first_seen": "2026-08-29T01:06:53.776Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "CW-Huang",
             "repo": "NAF",
             "stars": 125
-          }
+          },
+          "first_seen": "2026-08-29T01:06:53.776Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "PolinaKirichenko",
             "repo": "flows_ood",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-29T01:06:53.776Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "AWehenkel",
             "repo": "Graphical-Normalizing-Flows",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-29T01:06:53.776Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "hmdolatabadi",
             "repo": "AdvFlow",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-29T01:06:53.776Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "locuslab",
             "repo": "orthogonal-convolutions",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-29T01:06:53.776Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "vislearn",
             "repo": "IB-INN",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-29T01:06:53.776Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "ermongroup",
             "repo": "mintnet",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-29T01:06:53.776Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "ehoogeboom",
             "repo": "emerging",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-29T01:06:53.776Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "matejgrcic",
             "repo": "DenseFlow",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-29T01:06:53.776Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "ehoogeboom",
             "repo": "convolution_exponential_and_sylvester",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-29T01:06:53.776Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "robert-giaquinto",
             "repo": "gradient-boosted-normalizing-flows",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-29T01:06:53.776Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "chenlin9",
             "repo": "Gaussianization_Flows",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-29T01:06:53.776Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "visinf",
             "repo": "mar-scf",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-29T01:06:53.776Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "mlvlab",
             "repo": "MonotoneFlows",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-29T01:06:53.776Z"
         },
         {
           "node_type": "item",
@@ -331,7 +352,8 @@
             "owner": "aditya-v-kallappa",
             "repo": "FInCFlow",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T01:06:53.776Z"
         },
         {
           "node_type": "item",
@@ -346,7 +368,8 @@
             "owner": "Naagar",
             "repo": "Normalizing_Flow_3x3_inv",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T01:06:53.776Z"
         },
         {
           "node_type": "item",
@@ -361,7 +384,8 @@
             "owner": "Karami-m",
             "repo": "Invertible-Convolutional-Flow",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T01:06:53.776Z"
         }
       ],
       "title": "📝 Publications (60)"
@@ -384,7 +408,8 @@
                 "owner": "probabilists",
                 "repo": "zuko",
                 "stars": 466
-              }
+              },
+              "first_seen": "2026-08-29T01:06:53.776Z"
             },
             {
               "node_type": "item",
@@ -398,8 +423,9 @@
                 "last_commit": "2024-12-27T06:10:31Z",
                 "owner": "bayesiains",
                 "repo": "nflows",
-                "stars": 1020
-              }
+                "stars": 1019
+              },
+              "first_seen": "2026-08-29T01:06:53.776Z"
             },
             {
               "node_type": "item",
@@ -414,7 +440,8 @@
                 "owner": "VincentStimper",
                 "repo": "normalizing-flows",
                 "stars": 957
-              }
+              },
+              "first_seen": "2026-08-29T01:06:53.776Z"
             },
             {
               "node_type": "item",
@@ -429,7 +456,8 @@
                 "owner": "vislearn",
                 "repo": "FrEIA",
                 "stars": 860
-              }
+              },
+              "first_seen": "2026-08-29T01:06:53.776Z"
             },
             {
               "node_type": "item",
@@ -444,7 +472,8 @@
                 "owner": "facebookincubator",
                 "repo": "flowtorch",
                 "stars": 310
-              }
+              },
+              "first_seen": "2026-08-29T01:06:53.776Z"
             },
             {
               "node_type": "item",
@@ -459,7 +488,8 @@
                 "owner": "thoglu",
                 "repo": "jammy_flows",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-29T01:06:53.776Z"
             }
           ],
           "description": "Zuko is used in LAMPE to enable Likelihood-free AMortized Posterior Estimation with PyTorch.",
@@ -480,8 +510,9 @@
                 "last_commit": "2026-08-06T22:18:55Z",
                 "owner": "tensorflow",
                 "repo": "probability",
-                "stars": 4429
-              }
+                "stars": 4430
+              },
+              "first_seen": "2026-08-29T01:06:53.776Z"
             }
           ],
           "description": null,
@@ -502,8 +533,9 @@
                 "last_commit": "2026-07-30T09:37:11Z",
                 "owner": "google-deepmind",
                 "repo": "distrax",
-                "stars": 648
-              }
+                "stars": 649
+              },
+              "first_seen": "2026-08-29T01:06:53.776Z"
             },
             {
               "node_type": "item",
@@ -518,7 +550,8 @@
                 "owner": "kazewong",
                 "repo": "flowMC",
                 "stars": 263
-              }
+              },
+              "first_seen": "2026-08-29T01:06:53.776Z"
             },
             {
               "node_type": "item",
@@ -533,7 +566,8 @@
                 "owner": "Information-Fusion-Lab-Umass",
                 "repo": "NuX",
                 "stars": 87
-              }
+              },
+              "first_seen": "2026-08-29T01:06:53.776Z"
             },
             {
               "node_type": "item",
@@ -548,7 +582,8 @@
                 "owner": "jfcrenshaw",
                 "repo": "pzflow",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-29T01:06:53.776Z"
             },
             {
               "node_type": "item",
@@ -559,11 +594,12 @@
                 "archived": false,
                 "id": 735423333,
                 "language": "Python",
-                "last_commit": "2026-08-27T17:54:43Z",
+                "last_commit": "2026-08-29T00:59:08Z",
                 "owner": "kokabsc",
                 "repo": "gwkokab",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-29T01:06:53.776Z"
             }
           ],
           "description": null,
@@ -585,7 +621,8 @@
                 "owner": "slimgroup",
                 "repo": "InvertibleNetworks.jl",
                 "stars": 171
-              }
+              },
+              "first_seen": "2026-08-29T01:06:53.776Z"
             },
             {
               "node_type": "item",
@@ -600,7 +637,8 @@
                 "owner": "impICNF",
                 "repo": "ContinuousNormalizingFlows.jl",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-29T01:06:53.776Z"
             }
           ],
           "description": null,
@@ -628,7 +666,8 @@
                 "owner": "pyro-ppl",
                 "repo": "pyro",
                 "stars": 9045
-              }
+              },
+              "first_seen": "2026-08-29T01:06:53.776Z"
             },
             {
               "node_type": "item",
@@ -642,8 +681,9 @@
                 "last_commit": "2026-08-26T19:16:28Z",
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2867
-              }
+                "stars": 2868
+              },
+              "first_seen": "2026-08-29T01:06:53.776Z"
             },
             {
               "node_type": "item",
@@ -658,7 +698,8 @@
                 "owner": "RameenAbdal",
                 "repo": "StyleFlow",
                 "stars": 2442
-              }
+              },
+              "first_seen": "2026-08-29T01:06:53.776Z"
             },
             {
               "node_type": "item",
@@ -673,7 +714,8 @@
                 "owner": "karpathy",
                 "repo": "pytorch-normalizing-flows",
                 "stars": 919
-              }
+              },
+              "first_seen": "2026-08-29T01:06:53.776Z"
             },
             {
               "node_type": "item",
@@ -688,7 +730,8 @@
                 "owner": "kamenbliznashki",
                 "repo": "normalizing_flows",
                 "stars": 640
-              }
+              },
+              "first_seen": "2026-08-29T01:06:53.776Z"
             },
             {
               "node_type": "item",
@@ -703,7 +746,8 @@
                 "owner": "ikostrikov",
                 "repo": "pytorch-flows",
                 "stars": 589
-              }
+              },
+              "first_seen": "2026-08-29T01:06:53.776Z"
             },
             {
               "node_type": "item",
@@ -718,7 +762,8 @@
                 "owner": "acids-ircam",
                 "repo": "pytorch_flows",
                 "stars": 169
-              }
+              },
+              "first_seen": "2026-08-29T01:06:53.776Z"
             },
             {
               "node_type": "item",
@@ -733,7 +778,8 @@
                 "owner": "AWehenkel",
                 "repo": "UMNN",
                 "stars": 129
-              }
+              },
+              "first_seen": "2026-08-29T01:06:53.776Z"
             },
             {
               "node_type": "item",
@@ -748,7 +794,8 @@
                 "owner": "deeprob-org",
                 "repo": "deeprob-kit",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-29T01:06:53.776Z"
             },
             {
               "node_type": "item",
@@ -763,7 +810,8 @@
                 "owner": "AWehenkel",
                 "repo": "Graphical-Normalizing-Flows",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-29T01:06:53.776Z"
             }
           ],
           "description": null,
@@ -785,7 +833,8 @@
                 "owner": "bohanli",
                 "repo": "BERT-flow",
                 "stars": 534
-              }
+              },
+              "first_seen": "2026-08-29T01:06:53.776Z"
             },
             {
               "node_type": "item",
@@ -800,7 +849,8 @@
                 "owner": "LukasRinder",
                 "repo": "normalizing-flows",
                 "stars": 147
-              }
+              },
+              "first_seen": "2026-08-29T01:06:53.776Z"
             },
             {
               "node_type": "item",
@@ -815,7 +865,8 @@
                 "owner": "pierresegonne",
                 "repo": "VINF",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-29T01:06:53.776Z"
             }
           ],
           "description": null,
@@ -837,7 +888,8 @@
                 "owner": "davidinouye",
                 "repo": "destructive-deep-learning",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T01:06:53.776Z"
             },
             {
               "node_type": "item",
@@ -852,7 +904,8 @@
                 "owner": "Theano",
                 "repo": "Theano",
                 "stars": 9998
-              }
+              },
+              "first_seen": "2026-08-29T01:06:53.776Z"
             },
             {
               "node_type": "item",
@@ -867,7 +920,8 @@
                 "owner": "andymiller",
                 "repo": "NormFlows",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T01:06:53.776Z"
             }
           ],
           "description": "Table 1 in the paper has a good comparison with traditional NFs.",
@@ -879,7 +933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:36:52.646Z",
+    "last_updated": "2026-08-29T01:06:53.776Z",
     "original_repository_info": {
       "archived": false,
       "id": 227366838,
