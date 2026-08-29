@@ -6,7 +6,7 @@
 
 <h4 align="center">
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,891 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,122 | 🐛 105 | 📅 2026-08-21
 [![Pull Requests Welcome](https://img.shields.io/badge/Pull%20Requests-welcome-brightgreen.svg?logo=github)](#-contributing)
 [![Link Check](https://github.com/janosh/awesome-normalizing-flows/actions/workflows/link-check.yml/badge.svg)](https://github.com/janosh/awesome-normalizing-flows/actions/workflows/link-check.yml) ⭐ 1,637 | 🐛 0 | 🌐 Python | 📅 2026-07-31
 [![DOI](https://zenodo.org/badge/227366838.svg)](https://zenodo.org/badge/latestdoi/227366838)
@@ -346,7 +346,7 @@ Zuko is used in [LAMPE](https://github.com/francois-rozet/lampe) ⭐ 136 | 🐛 
 
 ### <img src="assets/tensorflow.svg" alt="TensorFlow" height="20px">  TensorFlow Packages
 
-1. 2018-06-22 - [TensorFlow Probability](https://github.com/tensorflow/probability) ⭐ 4,430 | 🐛 726 | 🌐 Jupyter Notebook | 📅 2026-08-06 by [Google](https://tensorflow.org/probability)
+1. 2018-06-22 - [TensorFlow Probability](https://github.com/tensorflow/probability) ⭐ 4,431 | 🐛 726 | 🌐 Jupyter Notebook | 📅 2026-08-06 by [Google](https://tensorflow.org/probability)
      <img src="https://img.shields.io/github/stars/tensorflow/probability" alt="GitHub repo stars" valign="middle" /><br>
    Large first-party library that offers RNVP, MAF among other autoregressive models plus a collection of composable bijectors.
 
@@ -479,7 +479,7 @@ Table 1 in the paper has a good comparison with traditional NFs.
 
 2. 2017-03-21 - [NormFlows](https://github.com/andymiller/NormFlows) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2019-06-19 by Andy Miller
      <img src="https://img.shields.io/github/stars/andymiller/NormFlows" alt="GitHub repo stars" valign="middle" /><br>
-   Simple didactic example using [`autograd`](https://github.com/HIPS/autograd) ⭐ 7,524 | 🐛 179 | 🌐 Python | 📅 2026-08-28, so pretty low-level.
+   Simple didactic example using [`autograd`](https://github.com/HIPS/autograd) ⭐ 7,524 | 🐛 180 | 🌐 Python | 📅 2026-08-29, so pretty low-level.
 
 <br>
 
