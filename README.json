@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch based Probabilistic Time Series forecasting framework based on GluonTS backend",
+            "homepage": null,
             "id": 247768523,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-06-14T10:33:12Z",
+            "open_issues": 104,
             "owner": "zalandoresearch",
             "repo": "pytorch-ts",
-            "stars": 1370
+            "stars": 1370,
+            "topics": [
+              "deepar",
+              "lstnet",
+              "n-beats",
+              "probabilistic",
+              "pytorch",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-29T01:06:53.776Z"
         },
@@ -26,12 +38,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Code for reproducing key results in the paper \"Improving Variational Inference with Inverse Autoregressive Flow\"",
+            "homepage": "https://arxiv.org/abs/1606.04934",
             "id": 61248329,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-11-22T00:39:33Z",
+            "open_issues": 14,
             "owner": "openai",
             "repo": "iaf",
-            "stars": 529
+            "stars": 529,
+            "topics": [
+              "paper"
+            ]
           },
           "first_seen": "2026-08-29T01:06:53.776Z"
         },
@@ -42,12 +61,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Pytorch implementation of \"FloWaveNet: A Generative Flow for Raw Audio\"",
+            "homepage": null,
             "id": 155968058,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-04-23T13:57:02Z",
+            "open_issues": 5,
             "owner": "ksw0306",
             "repo": "FloWaveNet",
-            "stars": 490
+            "stars": 490,
+            "topics": [
+              "clarinet",
+              "generative-flow",
+              "glow",
+              "pytorch",
+              "wavenet"
+            ]
           },
           "first_seen": "2026-08-29T01:06:53.776Z"
         },
@@ -58,12 +88,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for paper \"SurVAE Flows: Surjections to Bridge the Gap between VAEs and Flows\"",
+            "homepage": null,
             "id": 276901631,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-02-01T10:33:24Z",
+            "open_issues": 9,
             "owner": "didriknielsen",
             "repo": "survae_flows",
-            "stars": 292
+            "stars": 292,
+            "topics": [
+              "flows",
+              "survae-flows"
+            ]
           },
           "first_seen": "2026-08-29T01:06:53.776Z"
         },
@@ -74,12 +112,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Manifold-learning flows (ℳ-flows)",
+            "homepage": "https://arxiv.org/abs/2003.13913",
             "id": 183476805,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2020-11-13T14:46:45Z",
+            "open_issues": 2,
             "owner": "johannbrehmer",
             "repo": "manifold-flow",
-            "stars": 236
+            "stars": 236,
+            "topics": [
+              "density-estimation",
+              "manifold-learning",
+              "normalizing-flows",
+              "notagan"
+            ]
           },
           "first_seen": "2026-08-29T01:06:53.776Z"
         },
@@ -90,12 +138,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytorch implementation of Block Neural Autoregressive Flow",
+            "homepage": "http://arxiv.org/abs/1904.04676",
             "id": 179033660,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-08-19T17:02:01Z",
+            "open_issues": 0,
             "owner": "nicola-decao",
             "repo": "BNAF",
-            "stars": 183
+            "stars": 183,
+            "topics": [
+              "density-estimation",
+              "neural-networks",
+              "normalizing-flows",
+              "variational-autoencoder"
+            ]
           },
           "first_seen": "2026-08-29T01:06:53.776Z"
         },
@@ -106,12 +164,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of Unconstrained Monotonic Neural Network and the related experiments. These architectures are particularly useful for modelling monotonic transformations in normalizing flows.",
+            "homepage": null,
             "id": 186380540,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-12-07T23:31:59Z",
+            "open_issues": 1,
             "owner": "AWehenkel",
             "repo": "UMNN",
-            "stars": 129
+            "stars": 129,
+            "topics": [
+              "monotonic",
+              "neural-network",
+              "normalizing-flows"
+            ]
           },
           "first_seen": "2026-08-29T01:06:53.776Z"
         },
@@ -122,12 +189,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Experiments for the Neural Autoregressive Flows paper",
+            "homepage": null,
             "id": 127345106,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-06-10T19:55:23Z",
+            "open_issues": 2,
             "owner": "CW-Huang",
             "repo": "NAF",
-            "stars": 125
+            "stars": 125,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:06:53.776Z"
         },
@@ -138,12 +210,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 272485835,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2021-11-02T20:56:37Z",
+            "open_issues": 9,
             "owner": "PolinaKirichenko",
             "repo": "flows_ood",
-            "stars": 87
+            "stars": 87,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:06:53.776Z"
         },
@@ -154,12 +231,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Combining smooth constraint for building DAG with normalizing flow in order to replace autoregressive transformations while keeping tractable Jacobian.",
+            "homepage": null,
             "id": 238182329,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-09-21T13:22:05Z",
+            "open_issues": 3,
             "owner": "AWehenkel",
             "repo": "Graphical-Normalizing-Flows",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:06:53.776Z"
         },
@@ -170,12 +252,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS2020] The official repository of \"AdvFlow: Inconspicuous Black-box Adversarial Attacks using Normalizing Flows\".",
+            "homepage": "https://hmdolatabadi.github.io/posts/2020/10/advflow/",
             "id": 279718240,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-10-03T21:32:08Z",
+            "open_issues": 5,
             "owner": "hmdolatabadi",
             "repo": "AdvFlow",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "adversarial-machine-learning",
+              "black-box-attacks",
+              "neurips-2020",
+              "normalizing-flows"
+            ]
           },
           "first_seen": "2026-08-29T01:06:53.776Z"
         },
@@ -186,12 +278,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementations of orthogonal and semi-orthogonal convolutions in the Fourier domain with applications to adversarial robustness",
+            "homepage": null,
             "id": 347498700,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2021-04-09T17:22:09Z",
+            "open_issues": 0,
             "owner": "locuslab",
             "repo": "orthogonal-convolutions",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:06:53.776Z"
         },
@@ -202,12 +299,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the paper \"Training Normalizing Flows with the Information Bottleneck for Competitive Generative Classification\" (2020)",
+            "homepage": null,
             "id": 241663458,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-05-10T12:09:35Z",
+            "open_issues": 9,
             "owner": "vislearn",
             "repo": "IB-INN",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:06:53.776Z"
         },
@@ -218,12 +320,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MintNet: Building Invertible Neural Networks with Masked Convolutions",
+            "homepage": null,
             "id": 217955135,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-12-16T18:38:34Z",
+            "open_issues": 4,
             "owner": "ermongroup",
             "repo": "mintnet",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "density-estimation",
+              "flow-models",
+              "invertible-neural-networks",
+              "masked-convolutions",
+              "neurips2019"
+            ]
           },
           "first_seen": "2026-08-29T01:06:53.776Z"
         },
@@ -234,12 +347,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 187589406,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-05-31T11:35:09Z",
+            "open_issues": 2,
             "owner": "ehoogeboom",
             "repo": "emerging",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:06:53.776Z"
         },
@@ -250,12 +368,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation of Densely connected normalizing flows",
+            "homepage": null,
             "id": 388720156,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2023-12-17T20:37:16Z",
+            "open_issues": 1,
             "owner": "matejgrcic",
             "repo": "DenseFlow",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:06:53.776Z"
         },
@@ -266,12 +389,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 305875062,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-01-31T15:08:40Z",
+            "open_issues": 0,
             "owner": "ehoogeboom",
             "repo": "convolution_exponential_and_sylvester",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:06:53.776Z"
         },
@@ -282,12 +410,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "We got a stew going!",
+            "homepage": null,
             "id": 179404629,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-10-03T23:49:59Z",
+            "open_issues": 5,
             "owner": "robert-giaquinto",
             "repo": "gradient-boosted-normalizing-flows",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "boosting",
+              "deep-generative-model",
+              "density-estimation",
+              "normalizing-flows",
+              "pytorch",
+              "variational-autoencoder",
+              "variational-inference"
+            ]
           },
           "first_seen": "2026-08-29T01:06:53.776Z"
         },
@@ -298,12 +439,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 251534843,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-05-06T08:43:28Z",
+            "open_issues": 1,
             "owner": "chenlin9",
             "repo": "Gaussianization_Flows",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:06:53.776Z"
         },
@@ -314,12 +460,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Normalizing Flows with Multi-Scale Autoregressive Priors (CVPR 2020)",
+            "homepage": null,
             "id": 251566428,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-07-22T10:54:10Z",
+            "open_issues": 1,
             "owner": "visinf",
             "repo": "mar-scf",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:06:53.776Z"
         },
@@ -330,12 +481,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official PyTorch implementation of NeurIPS 2022 paper \"Invertible Monotone Operators for Normalizing Flows\"",
+            "homepage": null,
             "id": 571396684,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-11-28T03:06:44Z",
+            "open_issues": 0,
             "owner": "mlvlab",
             "repo": "MonotoneFlows",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:06:53.776Z"
         },
@@ -346,12 +502,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generating Images using Normalizing Flows with Invertible Convolution",
+            "homepage": null,
             "id": 468422263,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-12-11T06:17:33Z",
+            "open_issues": 3,
             "owner": "aditya-v-kallappa",
             "repo": "FInCFlow",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:06:53.776Z"
         },
@@ -362,12 +523,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of CInC Flow paper, TensorFlow. ",
+            "homepage": "https://openreview.net/forum?id=kl1ds_AeLRM",
             "id": 332062328,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2025-03-20T12:42:13Z",
+            "open_issues": 0,
             "owner": "Naagar",
             "repo": "Normalizing_Flow_3x3_inv",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:06:53.776Z"
         },
@@ -378,12 +544,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code for the paper: M. Karami, D. Schuurmans, Jascha Sohl-Dickstein, Daniel Duckworth, Laurent Dinh, “Invertible Convolutional Flow\", Advances in Neural Information Processing Systems (NeurIPS) 2019",
+            "homepage": null,
             "id": 218011511,
             "language": null,
+            "license": "MIT",
             "last_commit": "2019-10-28T10:38:12Z",
+            "open_issues": 1,
             "owner": "Karami-m",
             "repo": "Invertible-Convolutional-Flow",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:06:53.776Z"
         }
@@ -402,12 +573,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Normalizing flows in PyTorch",
+                "homepage": "https://zuko.readthedocs.io",
                 "id": 549658956,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-10T08:38:48Z",
+                "open_issues": 4,
                 "owner": "probabilists",
                 "repo": "zuko",
-                "stars": 466
+                "stars": 466,
+                "topics": [
+                  "deep-learning",
+                  "density-estimation",
+                  "generative-model",
+                  "normalizing-flows",
+                  "probability",
+                  "torch"
+                ]
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
             },
@@ -418,12 +601,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Normalizing flows in PyTorch",
+                "homepage": null,
                 "id": 241103833,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-12-27T06:10:31Z",
+                "open_issues": 17,
                 "owner": "bayesiains",
                 "repo": "nflows",
-                "stars": 1019
+                "stars": 1019,
+                "topics": [
+                  "density-estimation",
+                  "generative-model",
+                  "normalizing-flows",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
             },
@@ -434,12 +627,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch implementation of normalizing flow models",
+                "homepage": "https://joss.theoj.org/papers/10.21105/joss.05361",
                 "id": 236765661,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-08-25T09:44:06Z",
+                "open_issues": 15,
                 "owner": "VincentStimper",
                 "repo": "normalizing-flows",
-                "stars": 957
+                "stars": 957,
+                "topics": [
+                  "density-estimation",
+                  "glow",
+                  "invertible-neural-networks",
+                  "neural-spline-flow",
+                  "normalizing-flow",
+                  "pytorch",
+                  "real-nvp",
+                  "residual-flow",
+                  "variational-autoencoder",
+                  "variational-inference"
+                ]
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
             },
@@ -450,12 +659,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Framework for Easily Invertible Architectures",
+                "homepage": null,
                 "id": 147810411,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-03T11:58:12Z",
+                "open_issues": 38,
                 "owner": "vislearn",
                 "repo": "FrEIA",
-                "stars": 860
+                "stars": 860,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
             },
@@ -466,12 +680,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This library would form a permanent home for reusable components for deep probabilistic programming. The library would form and harness a community of users and contributors by focusing initially on complete infra and documentation for how to use and create components.",
+                "homepage": "https://flowtorch.ai",
                 "id": 341337596,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-04-15T21:15:00Z",
+                "open_issues": 13,
                 "owner": "facebookincubator",
                 "repo": "flowtorch",
-                "stars": 310
+                "stars": 310,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
             },
@@ -482,12 +701,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A package to describe amortized (conditional) normalizing-flow PDFs defined jointly on tensor products of manifolds with coverage control. The connection between different manifolds is fixed via an autoregressive structure.",
+                "homepage": null,
                 "id": 332748484,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-22T20:13:08Z",
+                "open_issues": 0,
                 "owner": "thoglu",
                 "repo": "jammy_flows",
-                "stars": 47
+                "stars": 47,
+                "topics": [
+                  "manifolds",
+                  "normalizing-flows",
+                  "pdf",
+                  "probability-distribution"
+                ]
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
             }
@@ -505,12 +734,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Probabilistic reasoning and statistical analysis in TensorFlow",
+                "homepage": "https://www.tensorflow.org/probability/",
                 "id": 108053674,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-06T22:18:55Z",
+                "open_issues": 726,
                 "owner": "tensorflow",
                 "repo": "probability",
-                "stars": 4430
+                "stars": 4430,
+                "topics": [
+                  "bayesian-methods",
+                  "data-science",
+                  "deep-learning",
+                  "machine-learning",
+                  "neural-networks",
+                  "probabilistic-programming",
+                  "statistics",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
             }
@@ -528,12 +771,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 353770320,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-30T09:37:11Z",
+                "open_issues": 60,
                 "owner": "google-deepmind",
                 "repo": "distrax",
-                "stars": 649
+                "stars": 649,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
             },
@@ -544,12 +792,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Normalizing-flow enhanced sampling package for probabilistic inference in Jax",
+                "homepage": "https://flowmc.readthedocs.io/en/main/",
                 "id": 433466964,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-10-28T13:30:00Z",
+                "open_issues": 25,
                 "owner": "kazewong",
                 "repo": "flowMC",
-                "stars": 263
+                "stars": 263,
+                "topics": [
+                  "jax",
+                  "mcmc",
+                  "normalizing-flows",
+                  "stat"
+                ]
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
             },
@@ -560,12 +818,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Normalizing Flows using JAX",
+                "homepage": null,
                 "id": 245911992,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-11-30T23:00:01Z",
+                "open_issues": 0,
                 "owner": "Information-Fusion-Lab-Umass",
                 "repo": "NuX",
-                "stars": 87
+                "stars": 87,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
             },
@@ -576,12 +839,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Probabilistic modeling of tabular data with normalizing flows.",
+                "homepage": "https://jfcrenshaw.github.io/pzflow/",
                 "id": 327498448,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-06T21:17:12Z",
+                "open_issues": 4,
                 "owner": "jfcrenshaw",
                 "repo": "pzflow",
-                "stars": 64
+                "stars": 64,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
             },
@@ -592,12 +860,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A JAX-based gravitational-wave population inference toolkit for parametric models",
+                "homepage": "https://gwkokab.readthedocs.io",
                 "id": 735423333,
                 "language": "Python",
-                "last_commit": "2026-08-29T00:59:08Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T01:20:15Z",
+                "open_issues": 7,
                 "owner": "kokabsc",
                 "repo": "gwkokab",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "astrophysics",
+                  "bayesian-inference",
+                  "bbh",
+                  "binary-black-holes",
+                  "binary-neutron-stars",
+                  "bns",
+                  "compact-binary",
+                  "gravitational-waves",
+                  "jax",
+                  "neutron-star-black-hole",
+                  "nsbh",
+                  "population-inference"
+                ]
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
             }
@@ -615,12 +901,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Julia framework for invertible neural networks",
+                "homepage": null,
                 "id": 239018318,
                 "language": "Julia",
+                "license": "MIT",
                 "last_commit": "2025-10-01T00:08:55Z",
+                "open_issues": 20,
                 "owner": "slimgroup",
                 "repo": "InvertibleNetworks.jl",
-                "stars": 171
+                "stars": 171,
+                "topics": [
+                  "bayesian-inference",
+                  "deep-invertible-networks",
+                  "deep-learning",
+                  "invertible-1x1-convolutions",
+                  "invertible-neural-networks",
+                  "julia",
+                  "julia-language",
+                  "machine-learning",
+                  "normalizing-flow",
+                  "normalizing-flows"
+                ]
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
             },
@@ -631,12 +933,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementations of Infinitesimal Continuous Normalizing Flows Algorithms in Julia",
+                "homepage": "https://impicnf.github.io/ContinuousNormalizingFlows.jl/",
                 "id": 426661999,
                 "language": "Julia",
+                "license": "MIT",
                 "last_commit": "2026-08-25T09:28:13Z",
+                "open_issues": 2,
                 "owner": "impICNF",
                 "repo": "ContinuousNormalizingFlows.jl",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "continuous-normalizing-flows",
+                  "flows",
+                  "infinitesimal-continuous-normalizing-flows",
+                  "infinitesimal-normalizing-flows",
+                  "julia",
+                  "julia-language",
+                  "julialang",
+                  "normalizing-flows"
+                ]
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
             }
@@ -660,12 +976,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep universal probabilistic programming with Python and PyTorch",
+                "homepage": "http://pyro.ai",
                 "id": 94506832,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T16:12:12Z",
+                "open_issues": 286,
                 "owner": "pyro-ppl",
                 "repo": "pyro",
-                "stars": 9045
+                "stars": 9045,
+                "topics": [
+                  "bayesian",
+                  "bayesian-inference",
+                  "deep-learning",
+                  "machine-learning",
+                  "probabilistic-modeling",
+                  "probabilistic-programming",
+                  "python",
+                  "pytorch",
+                  "variational-inference"
+                ]
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
             },
@@ -676,12 +1007,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of papers in 100 lines of code.",
+                "homepage": null,
                 "id": 307222796,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T19:16:28Z",
+                "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2868
+                "stars": 2867,
+                "topics": [
+                  "3d",
+                  "aes",
+                  "artificial-intelligence",
+                  "deep-learning",
+                  "diffusion-models",
+                  "educational",
+                  "gans",
+                  "generative-model",
+                  "implementation-of-research-paper",
+                  "inverse-rendering",
+                  "machine-learning",
+                  "meta-learning",
+                  "nerf",
+                  "neural-radiance-fields",
+                  "papers",
+                  "python",
+                  "pytorch",
+                  "reinforcement-learning",
+                  "research",
+                  "rl"
+                ]
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
             },
@@ -692,12 +1049,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "StyleFlow: Attribute-conditioned Exploration of StyleGAN-generated Images using  Conditional Continuous Normalizing Flows (ACM TOG 2021)",
+                "homepage": "http://rameenabdal.github.io/StyleFlow",
                 "id": 267200032,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-03-24T22:20:54Z",
+                "open_issues": 80,
                 "owner": "RameenAbdal",
                 "repo": "StyleFlow",
-                "stars": 2442
+                "stars": 2442,
+                "topics": [
+                  "faces",
+                  "quality",
+                  "sequential-edits",
+                  "stylegan"
+                ]
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
             },
@@ -708,12 +1075,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Normalizing flows in PyTorch. Current intended use is education not production.",
+                "homepage": null,
                 "id": 226934007,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2020-01-27T18:37:10Z",
+                "open_issues": 9,
                 "owner": "karpathy",
                 "repo": "pytorch-normalizing-flows",
-                "stars": 919
+                "stars": 919,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
             },
@@ -724,12 +1096,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pytorch implementations of density estimation algorithms: BNAF, Glow, MAF, RealNVP, planar flows",
+                "homepage": null,
                 "id": 163574100,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-07-12T12:40:38Z",
+                "open_issues": 11,
                 "owner": "kamenbliznashki",
                 "repo": "normalizing_flows",
-                "stars": 640
+                "stars": 640,
+                "topics": [
+                  "deep-learning",
+                  "density-estmation",
+                  "normalizing-flows",
+                  "probability"
+                ]
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
             },
@@ -740,12 +1122,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch implementations of algorithms for density estimation",
+                "homepage": null,
                 "id": 147028592,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-05-13T19:59:29Z",
+                "open_issues": 5,
                 "owner": "ikostrikov",
                 "repo": "pytorch-flows",
-                "stars": 589
+                "stars": 589,
+                "topics": [
+                  "deep-learning",
+                  "density-estimation",
+                  "neural-networks",
+                  "probabilities",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
             },
@@ -756,12 +1149,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation and tutorials of normalizing flows with the novel distributions module",
+                "homepage": null,
                 "id": 169436502,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2020-08-13T15:45:51Z",
+                "open_issues": 3,
                 "owner": "acids-ircam",
                 "repo": "pytorch_flows",
-                "stars": 169
+                "stars": 169,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
             },
@@ -772,12 +1170,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of Unconstrained Monotonic Neural Network and the related experiments. These architectures are particularly useful for modelling monotonic transformations in normalizing flows.",
+                "homepage": null,
                 "id": 186380540,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-12-07T23:31:59Z",
+                "open_issues": 1,
                 "owner": "AWehenkel",
                 "repo": "UMNN",
-                "stars": 129
+                "stars": 129,
+                "topics": [
+                  "monotonic",
+                  "neural-network",
+                  "normalizing-flows"
+                ]
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
             },
@@ -788,12 +1195,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python Library for Deep Probabilistic Modeling",
+                "homepage": "https://deeprob-kit.readthedocs.io/en/latest/",
                 "id": 410852413,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-10-25T17:12:43Z",
+                "open_issues": 5,
                 "owner": "deeprob-org",
                 "repo": "deeprob-kit",
-                "stars": 63
+                "stars": 63,
+                "topics": [
+                  "normalizing-flows",
+                  "probabilistic-circuits",
+                  "probabilistic-models",
+                  "sum-product-networks"
+                ]
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
             },
@@ -804,12 +1221,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Combining smooth constraint for building DAG with normalizing flow in order to replace autoregressive transformations while keeping tractable Jacobian.",
+                "homepage": null,
                 "id": 238182329,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-09-21T13:22:05Z",
+                "open_issues": 3,
                 "owner": "AWehenkel",
                 "repo": "Graphical-Normalizing-Flows",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
             }
@@ -827,12 +1249,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TensorFlow implementation of On the Sentence Embeddings from Pre-trained Language Models (EMNLP 2020)",
+                "homepage": null,
                 "id": 301422716,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-05-19T17:45:52Z",
+                "open_issues": 12,
                 "owner": "bohanli",
                 "repo": "BERT-flow",
-                "stars": 534
+                "stars": 534,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
             },
@@ -843,12 +1270,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of normalizing flows in TensorFlow 2 including a small tutorial.",
+                "homepage": null,
                 "id": 237158627,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-26T09:08:09Z",
+                "open_issues": 2,
                 "owner": "LukasRinder",
                 "repo": "normalizing-flows",
-                "stars": 147
+                "stars": 147,
+                "topics": [
+                  "deep-learning",
+                  "density-estimation",
+                  "generative-models",
+                  "normalizing-flows"
+                ]
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
             },
@@ -859,12 +1296,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository for DTU Special Course, focusing on Variational Inference using Normalizing Flows (VINF). Supervised by Michael Riis Andersen",
+                "homepage": "https://pierresegonne.github.io/VINF/",
                 "id": 244366819,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-06-11T20:40:25Z",
+                "open_issues": 1,
                 "owner": "pierresegonne",
                 "repo": "VINF",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "distributions",
+                  "python3",
+                  "tensorflow",
+                  "variational-inference"
+                ]
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
             }
@@ -882,12 +1329,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Destructive deep learning estimators and functions that are compatible with scikit-learn.",
+                "homepage": null,
                 "id": 136948292,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2020-10-04T09:06:40Z",
+                "open_issues": 16,
                 "owner": "davidinouye",
                 "repo": "destructive-deep-learning",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
             },
@@ -898,12 +1350,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Theano was a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It is being continued as PyTensor: www.github.com/pymc-devs/pytensor",
+                "homepage": "https://www.github.com/pymc-devs/pytensor",
                 "id": 2183193,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-01-15T03:16:24Z",
+                "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 9998
+                "stars": 9998,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
             },
@@ -914,12 +1371,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple normalizing flows example using autograd",
+                "homepage": null,
                 "id": 85647723,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-06-19T21:54:02Z",
+                "open_issues": 0,
                 "owner": "andymiller",
                 "repo": "NormFlows",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
             }
@@ -933,15 +1395,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:06:53.776Z",
+    "last_updated": "2026-08-29T04:30:42.283Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome resources on normalizing flows.",
+      "homepage": null,
       "id": 227366838,
       "language": "Python",
+      "license": "MIT",
       "last_commit": "2026-07-31T13:27:19Z",
+      "open_issues": 0,
       "owner": "janosh",
       "repo": "awesome-normalizing-flows",
-      "stars": 1637
+      "stars": 1637,
+      "topics": [
+        "autoregressive",
+        "awesome-list",
+        "bayesian-inference",
+        "bayesian-neural-networks",
+        "density-estimation",
+        "generative-modeling",
+        "machine-learning",
+        "normalizing-flows",
+        "variational-inference"
+      ]
     },
     "original_repository_sha": "7ccf40b8bbd837ee3ce101af21ed1784d9aaa32a",
     "enhanced_repository": "enhansome/enhansome-normalizing-flows",
