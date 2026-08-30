@@ -780,7 +780,7 @@
                 "open_issues": 60,
                 "owner": "google-deepmind",
                 "repo": "distrax",
-                "stars": 649,
+                "stars": 650,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -938,7 +938,7 @@
                 "id": 426661999,
                 "language": "Julia",
                 "license": "MIT",
-                "last_commit": "2026-08-25T09:28:13Z",
+                "last_commit": "2026-08-30T19:52:41Z",
                 "open_issues": 2,
                 "owner": "impICNF",
                 "repo": "ContinuousNormalizingFlows.jl",
@@ -1012,11 +1012,11 @@
                 "id": 307222796,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-26T19:16:28Z",
+                "last_commit": "2026-08-30T12:49:56Z",
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2867,
+                "stars": 2868,
                 "topics": [
                   "3d",
                   "aes",
@@ -1084,7 +1084,7 @@
                 "open_issues": 9,
                 "owner": "karpathy",
                 "repo": "pytorch-normalizing-flows",
-                "stars": 919,
+                "stars": 920,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -1359,7 +1359,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 9998,
+                "stars": 9999,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T19:56:45.299Z",
+    "last_updated": "2026-08-30T19:58:54.356Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
