@@ -865,7 +865,7 @@
                 "id": 735423333,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T01:20:15Z",
+                "last_commit": "2026-08-31T15:28:04Z",
                 "open_issues": 7,
                 "owner": "kokabsc",
                 "repo": "gwkokab",
@@ -982,7 +982,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-27T16:12:12Z",
-                "open_issues": 286,
+                "open_issues": 287,
                 "owner": "pyro-ppl",
                 "repo": "pyro",
                 "stars": 9045,
@@ -1359,7 +1359,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 9999,
+                "stars": 10000,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T19:58:54.356Z",
+    "last_updated": "2026-08-31T22:00:22.350Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
