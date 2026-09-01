@@ -6,7 +6,7 @@
 
 <h4 align="center">
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,709 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,002 | 🐛 105 | 📅 2026-08-21
 [![Pull Requests Welcome](https://img.shields.io/badge/Pull%20Requests-welcome-brightgreen.svg?logo=github)](#-contributing)
 [![Link Check](https://github.com/janosh/awesome-normalizing-flows/actions/workflows/link-check.yml/badge.svg)](https://github.com/janosh/awesome-normalizing-flows/actions/workflows/link-check.yml) ⭐ 1,637 | 🐛 0 | 🌐 Python | 📅 2026-07-31
 [![DOI](https://zenodo.org/badge/227366838.svg)](https://zenodo.org/badge/latestdoi/227366838)
@@ -22,7 +22,7 @@ A list of awesome resources for understanding and applying normalizing flows (NF
    </picture>
 </a>
 
-<sup>*Figure inspired by [Lilian Weng](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models). Created in [CeTZ](https://cetz-package.github.io). [View source](https://github.com/janosh/diagrams/blob/main/assets/normalizing-flow/normalizing-flow.typ) ⭐ 683 | 🐛 0 | 🌐 Typst | 📅 2026-08-26.*</sup>
+<sup>*Figure inspired by [Lilian Weng](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models). Created in [CeTZ](https://cetz-package.github.io). [View source](https://github.com/janosh/diagrams/blob/main/assets/normalizing-flow/normalizing-flow.typ) ⭐ 683 | 🐛 0 | 🌐 Typst | 📅 2026-09-01.*</sup>
 
 <br>
 
@@ -62,7 +62,7 @@ A list of awesome resources for understanding and applying normalizing flows (NF
    They present a generalized framework that encompasses both Flows (deterministic maps) and VAEs (stochastic maps). By seeing deterministic maps `x = f(z)` as limiting cases of stochastic maps `x ~ p(x|z)`, the ELBO is reinterpreted as a change of variables formula for the stochastic maps. Moreover, they present a few examples of surjective layers using stochastic maps, which can be composed together with flow layers. \[[Video](https://youtu.be/bXp8fk4MRXQ)] \[[Code](https://github.com/didriknielsen/survae_flows) ⭐ 292 | 🐛 9 | 🌐 Python | 📅 2021-02-01]
 
 5. 2020-03-31 - [Flows for simultaneous manifold learning and density estimation](https://arxiv.org/abs/2003.13913) by Brehmer, Cranmer<br>
-   Normalizing flows that learn the data manifold and probability density function on that manifold. \[[Tweet](https://twitter.com/kylecranmer/status/1250129080395223040)] \[[Code](https://github.com/johannbrehmer/manifold-flow) ⭐ 236 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2020-11-13]
+   Normalizing flows that learn the data manifold and probability density function on that manifold. \[[Tweet](https://twitter.com/kylecranmer/status/1250129080395223040)] \[[Code](https://github.com/johannbrehmer/manifold-flow) ⭐ 237 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2020-11-13]
 
 6. 2019-04-09 - [Block Neural Autoregressive Flow](https://arxiv.org/abs/1904.04676) by Wehenkel, Louppe<br>
    As an alternative to hand-crafted bijections, Huang et al. (2018) proposed NAF, a universal approximator for density functions. Their flow is a neural net whose parameters are predicted by another NN. The latter grows quadratically with the size of the former which is inefficient. We propose block neural autoregressive flow (B-NAF), a much more compact universal approximator of density functions, where we model a bijection directly using a single feed-forward network. Invertibility is ensured by carefully designing affine transformations with block matrices that make the flow autoregressive and monotone. We compare B-NAF to NAF and show our flow is competitive across datasets while using orders of magnitude fewer parameters. \[[Code](https://github.com/nicola-decao/BNAF) ⭐ 183 | 🐛 0 | 🌐 Python | 📅 2021-08-19]
@@ -346,7 +346,7 @@ Zuko is used in [LAMPE](https://github.com/francois-rozet/lampe) ⭐ 136 | 🐛 
 
 ### <img src="assets/tensorflow.svg" alt="TensorFlow" height="20px">  TensorFlow Packages
 
-1. 2018-06-22 - [TensorFlow Probability](https://github.com/tensorflow/probability) ⭐ 4,431 | 🐛 726 | 🌐 Jupyter Notebook | 📅 2026-08-06 by [Google](https://tensorflow.org/probability)
+1. 2018-06-22 - [TensorFlow Probability](https://github.com/tensorflow/probability) ⭐ 4,430 | 🐛 727 | 🌐 Jupyter Notebook | 📅 2026-08-06 by [Google](https://tensorflow.org/probability)
      <img src="https://img.shields.io/github/stars/tensorflow/probability" alt="GitHub repo stars" valign="middle" /><br>
    Large first-party library that offers RNVP, MAF among other autoregressive models plus a collection of composable bijectors.
 
@@ -370,7 +370,7 @@ Zuko is used in [LAMPE](https://github.com/francois-rozet/lampe) ⭐ 136 | 🐛 
      <img src="https://img.shields.io/github/stars/jfcrenshaw/pzflow" alt="GitHub repo stars" valign="middle" /><br>
    A package that focuses on probabilistic modeling of tabular data, with a focus on sampling and posterior calculation.
 
-5. 2024-07-05 - [GWKokab](https://github.com/gwkokab/gwkokab) ⭐ 28 | 🐛 7 | 🌐 Python | 📅 2026-08-31 by [Meesum Qazalbash](https://github.com/Qazalbash), [Muhammad Zeeshan](https://ccrg.rit.edu/user/muhammad.zeeshan) et al.
+5. 2024-07-05 - [GWKokab](https://github.com/gwkokab/gwkokab) ⭐ 28 | 🐛 7 | 🌐 Python | 📅 2026-09-01 by [Meesum Qazalbash](https://github.com/Qazalbash), [Muhammad Zeeshan](https://ccrg.rit.edu/user/muhammad.zeeshan) et al.
      <img src="https://img.shields.io/github/stars/gwkokab/gwkokab" alt="GitHub repo stars" valign="middle" /><br>
    A JAX-based gravitational-wave population inference toolkit for parametric models \[[Docs](https://gwkokab.readthedocs.io)]
 
@@ -382,7 +382,7 @@ Zuko is used in [LAMPE](https://github.com/francois-rozet/lampe) ⭐ 136 | 🐛 
      <img src="https://img.shields.io/github/stars/slimgroup/InvertibleNetworks.jl" alt="GitHub repo stars" valign="middle" /><br>
    A Flux compatible library implementing invertible neural networks and normalizing flows using memory-efficient backpropagation. Uses manually implemented gradients to take advantage of the invertibility of building blocks, which allows for scaling to large-scale problem sizes.
 
-2. 2021-11-07 - [ContinuousNormalizingFlows.jl](https://github.com/impICNF/ContinuousNormalizingFlows.jl) ⭐ 27 | 🐛 2 | 🌐 Julia | 📅 2026-08-30 by [Hossein Pourbozorg](https://github.com/prbzrg)
+2. 2021-11-07 - [ContinuousNormalizingFlows.jl](https://github.com/impICNF/ContinuousNormalizingFlows.jl) ⭐ 27 | 🐛 2 | 🌐 Julia | 📅 2026-09-01 by [Hossein Pourbozorg](https://github.com/prbzrg)
      <img src="https://img.shields.io/github/stars/impICNF/ContinuousNormalizingFlows.jl" alt="GitHub repo stars" valign="middle" /><br>
    Implementations of Infinitesimal Continuous Normalizing Flows Algorithms in Julia. \[[Docs](https://impicnf.github.io/ContinuousNormalizingFlows.jl)]
 
@@ -395,9 +395,9 @@ Zuko is used in [LAMPE](https://github.com/francois-rozet/lampe) ⭐ 136 | 🐛 
 ### <img src="assets/pytorch.svg" alt="PyTorch" height="20px">  PyTorch Repos
 
 1. 2020-07-19 - [Normalizing Flows - Introduction (Part 1)](https://pyro.ai/examples/normalizing_flows_i) by [pyro.ai](https://pyro.ai)<br>
-   A tutorial about how to use the `pyro-ppl` library (based on PyTorch) to use Normalizing flows. They provide some SOTA methods including NSF and MAF. [Parts 2 and 3 coming later](https://github.com/pyro-ppl/pyro/issues/1992) ⭐ 9,045 | 🐛 287 | 🌐 Python | 📅 2026-08-27.
+   A tutorial about how to use the `pyro-ppl` library (based on PyTorch) to use Normalizing flows. They provide some SOTA methods including NSF and MAF. [Parts 2 and 3 coming later](https://github.com/pyro-ppl/pyro/issues/1992) ⭐ 9,044 | 🐛 286 | 🌐 Python | 📅 2026-09-01.
 
-2. 2021-08-21 - [NICE: Non-linear Independent Components Estimation](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/NICE_Non_linear_Independent_Components_Estimation) ⭐ 2,868 | 🐛 0 | 🌐 Python | 📅 2026-08-30 by Maxime Vandegar
+2. 2021-08-21 - [NICE: Non-linear Independent Components Estimation](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/NICE_Non_linear_Independent_Components_Estimation) ⭐ 2,869 | 🐛 0 | 🌐 Python | 📅 2026-08-30 by Maxime Vandegar
      <img src="https://img.shields.io/github/stars/MaximeVandegar/Papers-in-100-Lines-of-Code" alt="GitHub repo stars" valign="middle" /><br>
    PyTorch implementation that reproduces results from the paper NICE in about 100 lines of code.
 
@@ -513,4 +513,4 @@ Papers should be peer-reviewed and published in a journal. If you're unsure if a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._

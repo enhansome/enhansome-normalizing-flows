@@ -121,7 +121,7 @@
             "open_issues": 2,
             "owner": "johannbrehmer",
             "repo": "manifold-flow",
-            "stars": 236,
+            "stars": 237,
             "topics": [
               "density-estimation",
               "manifold-learning",
@@ -740,10 +740,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-06T22:18:55Z",
-                "open_issues": 726,
+                "open_issues": 727,
                 "owner": "tensorflow",
                 "repo": "probability",
-                "stars": 4431,
+                "stars": 4430,
                 "topics": [
                   "bayesian-methods",
                   "data-science",
@@ -865,7 +865,7 @@
                 "id": 735423333,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-31T15:28:04Z",
+                "last_commit": "2026-09-01T03:03:58Z",
                 "open_issues": 7,
                 "owner": "kokabsc",
                 "repo": "gwkokab",
@@ -938,7 +938,7 @@
                 "id": 426661999,
                 "language": "Julia",
                 "license": "MIT",
-                "last_commit": "2026-08-30T19:52:41Z",
+                "last_commit": "2026-09-01T13:49:17Z",
                 "open_issues": 2,
                 "owner": "impICNF",
                 "repo": "ContinuousNormalizingFlows.jl",
@@ -981,11 +981,11 @@
                 "id": 94506832,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-27T16:12:12Z",
-                "open_issues": 287,
+                "last_commit": "2026-09-01T05:22:44Z",
+                "open_issues": 286,
                 "owner": "pyro-ppl",
                 "repo": "pyro",
-                "stars": 9045,
+                "stars": 9044,
                 "topics": [
                   "bayesian",
                   "bayesian-inference",
@@ -1016,7 +1016,7 @@
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2868,
+                "stars": 2869,
                 "topics": [
                   "3d",
                   "aes",
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T22:00:22.350Z",
+    "last_updated": "2026-09-01T20:05:51.573Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
