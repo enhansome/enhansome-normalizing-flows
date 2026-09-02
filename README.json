@@ -743,7 +743,7 @@
                 "open_issues": 727,
                 "owner": "tensorflow",
                 "repo": "probability",
-                "stars": 4430,
+                "stars": 4431,
                 "topics": [
                   "bayesian-methods",
                   "data-science",
@@ -981,8 +981,8 @@
                 "id": 94506832,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T05:22:44Z",
-                "open_issues": 286,
+                "last_commit": "2026-09-02T19:51:57Z",
+                "open_issues": 287,
                 "owner": "pyro-ppl",
                 "repo": "pyro",
                 "stars": 9044,
@@ -1016,7 +1016,7 @@
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2869,
+                "stars": 2870,
                 "topics": [
                   "3d",
                   "aes",
@@ -1058,7 +1058,7 @@
                 "open_issues": 80,
                 "owner": "RameenAbdal",
                 "repo": "StyleFlow",
-                "stars": 2442,
+                "stars": 2441,
                 "topics": [
                   "faces",
                   "quality",
@@ -1359,7 +1359,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 10000,
+                "stars": 9999,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T20:05:51.573Z",
+    "last_updated": "2026-09-02T20:02:19.566Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
