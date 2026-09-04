@@ -636,7 +636,7 @@
                 "open_issues": 15,
                 "owner": "VincentStimper",
                 "repo": "normalizing-flows",
-                "stars": 957,
+                "stars": 958,
                 "topics": [
                   "density-estimation",
                   "glow",
@@ -743,7 +743,7 @@
                 "open_issues": 728,
                 "owner": "tensorflow",
                 "repo": "probability",
-                "stars": 4431,
+                "stars": 4432,
                 "topics": [
                   "bayesian-methods",
                   "data-science",
@@ -780,7 +780,7 @@
                 "open_issues": 60,
                 "owner": "google-deepmind",
                 "repo": "distrax",
-                "stars": 650,
+                "stars": 649,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -981,8 +981,8 @@
                 "id": 94506832,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T07:35:50Z",
-                "open_issues": 286,
+                "last_commit": "2026-09-04T19:07:01Z",
+                "open_issues": 287,
                 "owner": "pyro-ppl",
                 "repo": "pyro",
                 "stars": 9044,
@@ -1016,7 +1016,7 @@
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2871,
+                "stars": 2873,
                 "topics": [
                   "3d",
                   "aes",
@@ -1105,7 +1105,7 @@
                 "open_issues": 11,
                 "owner": "kamenbliznashki",
                 "repo": "normalizing_flows",
-                "stars": 640,
+                "stars": 639,
                 "topics": [
                   "deep-learning",
                   "density-estmation",
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T20:04:04.788Z",
+    "last_updated": "2026-09-04T19:48:41.719Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
