@@ -6,9 +6,9 @@
 
 <h4 align="center">
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,948 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 504,237 | 🐛 106 | 📅 2026-09-02
 [![Pull Requests Welcome](https://img.shields.io/badge/Pull%20Requests-welcome-brightgreen.svg?logo=github)](#-contributing)
-[![Link Check](https://github.com/janosh/awesome-normalizing-flows/actions/workflows/link-check.yml/badge.svg)](https://github.com/janosh/awesome-normalizing-flows/actions/workflows/link-check.yml) ⭐ 1,637 | 🐛 0 | 🌐 Python | 📅 2026-07-31
+[![Link Check](https://github.com/janosh/awesome-normalizing-flows/actions/workflows/link-check.yml/badge.svg)](https://github.com/janosh/awesome-normalizing-flows/actions/workflows/link-check.yml) ⭐ 1,636 | 🐛 0 | 🌐 Python | 📅 2026-07-31
 [![DOI](https://zenodo.org/badge/227366838.svg)](https://zenodo.org/badge/latestdoi/227366838)
 
 </h4>
@@ -22,7 +22,7 @@ A list of awesome resources for understanding and applying normalizing flows (NF
    </picture>
 </a>
 
-<sup>*Figure inspired by [Lilian Weng](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models). Created in [CeTZ](https://cetz-package.github.io). [View source](https://github.com/janosh/diagrams/blob/main/assets/normalizing-flow/normalizing-flow.typ) ⭐ 684 | 🐛 0 | 🌐 Typst | 📅 2026-09-06.*</sup>
+<sup>*Figure inspired by [Lilian Weng](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models). Created in [CeTZ](https://cetz-package.github.io). [View source](https://github.com/janosh/diagrams/blob/main/assets/normalizing-flow/normalizing-flow.typ) ⭐ 684 | 🐛 0 | 🌐 Typst | 📅 2026-09-08.*</sup>
 
 <br>
 
@@ -50,7 +50,7 @@ A list of awesome resources for understanding and applying normalizing flows (NF
 ## 📝 Publications <small>(60)</small>
 
 1. 2020-09-28 - [Multivariate Probabilistic Time Series Forecasting via Conditioned Normalizing Flows](https://arxiv.org/abs/2002.06103) by Rasul, Sheikh et al.<br>
-   Models the multi-variate temporal dynamics of time series via an autoregressive deep learning model, where the data distribution is represented by a conditioned normalizing flow. \[[OpenReview.net](https://openreview.net/forum?id=WiGQBFuVRv)] \[[Code](https://github.com/zalandoresearch/pytorch-ts) ⭐ 1,370 | 🐛 104 | 🌐 Python | 📅 2024-06-14]
+   Models the multi-variate temporal dynamics of time series via an autoregressive deep learning model, where the data distribution is represented by a conditioned normalizing flow. \[[OpenReview.net](https://openreview.net/forum?id=WiGQBFuVRv)] \[[Code](https://github.com/zalandoresearch/pytorch-ts) ⭐ 1,369 | 🐛 104 | 🌐 Python | 📅 2024-06-14]
 
 2. 2016-06-15 - [Improving Variational Inference with Inverse Autoregressive Flow](https://arxiv.org/abs/1606.04934) by Kingma, Salimans et al.<br>
    Introduces inverse autoregressive flow (IAF), a new type of flow which scales well to high-dimensional latent spaces. \[[Code](https://github.com/openai/iaf) ⚠️ Archived]
@@ -95,7 +95,7 @@ A list of awesome resources for understanding and applying normalizing flows (NF
     Introduces autoregressive-like convolutional layers that operate on the channel **and** spatial axes. This improved upon the performance of image datasets compared to the standard 1x1 Convolutions. The trade-off is that the inverse operator is quite expensive however the authors provide a fast C++ implementation. \[[Code](https://github.com/ehoogeboom/emerging) ⭐ 41 | 🐛 2 | 🌐 Python | 📅 2019-05-31]
 
 16. 2019-07-18 - [Densely connected normalizing flows](https://arxiv.org/abs/2106.04627) by Grcić, Grubišić et al.<br>
-    Creates a nested coupling structure to add more expressivity to standard coupling layers. They also utilize slicing/factorization for dimensionality reduction and Nystromer for the coupling layer conditioning network. They achieved SOTA results for normalizing flow models. \[[Code](https://github.com/matejgrcic/DenseFlow) ⭐ 37 | 🐛 1 | 🌐 Python | 📅 2023-12-17]
+    Creates a nested coupling structure to add more expressivity to standard coupling layers. They also utilize slicing/factorization for dimensionality reduction and Nystromer for the coupling layer conditioning network. They achieved SOTA results for normalizing flow models. \[[Code](https://github.com/matejgrcic/DenseFlow) ⭐ 36 | 🐛 1 | 🌐 Python | 📅 2023-12-17]
 
 17. 2020-06-02 - [The Convolution Exponential and Generalized Sylvester Flows](https://arxiv.org/abs/2006.01910) by Hoogeboom, Satorras et al.<br>
     Introduces exponential convolution to add the spatial dependencies in linear layers as an improvement of the 1x1 convolutions. It uses matrix exponentials to create cheap and invertible layers. They also use this new architecture to create *convolutional Sylvester flows* and *graph convolutional exponentials*. \[[Code](https://github.com/ehoogeboom/convolution_exponential_and_sylvester) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2022-01-31]
@@ -346,7 +346,7 @@ Zuko is used in [LAMPE](https://github.com/francois-rozet/lampe) ⭐ 136 | 🐛 
 
 ### <img src="assets/tensorflow.svg" alt="TensorFlow" height="20px">  TensorFlow Packages
 
-1. 2018-06-22 - [TensorFlow Probability](https://github.com/tensorflow/probability) ⭐ 4,432 | 🐛 728 | 🌐 Jupyter Notebook | 📅 2026-08-06 by [Google](https://tensorflow.org/probability)
+1. 2018-06-22 - [TensorFlow Probability](https://github.com/tensorflow/probability) ⭐ 4,432 | 🐛 728 | 🌐 Jupyter Notebook | 📅 2026-09-08 by [Google](https://tensorflow.org/probability)
      <img src="https://img.shields.io/github/stars/tensorflow/probability" alt="GitHub repo stars" valign="middle" /><br>
    Large first-party library that offers RNVP, MAF among other autoregressive models plus a collection of composable bijectors.
 
@@ -382,7 +382,7 @@ Zuko is used in [LAMPE](https://github.com/francois-rozet/lampe) ⭐ 136 | 🐛 
      <img src="https://img.shields.io/github/stars/slimgroup/InvertibleNetworks.jl" alt="GitHub repo stars" valign="middle" /><br>
    A Flux compatible library implementing invertible neural networks and normalizing flows using memory-efficient backpropagation. Uses manually implemented gradients to take advantage of the invertibility of building blocks, which allows for scaling to large-scale problem sizes.
 
-2. 2021-11-07 - [ContinuousNormalizingFlows.jl](https://github.com/impICNF/ContinuousNormalizingFlows.jl) ⭐ 27 | 🐛 2 | 🌐 Julia | 📅 2026-09-03 by [Hossein Pourbozorg](https://github.com/prbzrg)
+2. 2021-11-07 - [ContinuousNormalizingFlows.jl](https://github.com/impICNF/ContinuousNormalizingFlows.jl) ⭐ 27 | 🐛 2 | 🌐 Julia | 📅 2026-09-08 by [Hossein Pourbozorg](https://github.com/prbzrg)
      <img src="https://img.shields.io/github/stars/impICNF/ContinuousNormalizingFlows.jl" alt="GitHub repo stars" valign="middle" /><br>
    Implementations of Infinitesimal Continuous Normalizing Flows Algorithms in Julia. \[[Docs](https://impicnf.github.io/ContinuousNormalizingFlows.jl)]
 
@@ -395,7 +395,7 @@ Zuko is used in [LAMPE](https://github.com/francois-rozet/lampe) ⭐ 136 | 🐛 
 ### <img src="assets/pytorch.svg" alt="PyTorch" height="20px">  PyTorch Repos
 
 1. 2020-07-19 - [Normalizing Flows - Introduction (Part 1)](https://pyro.ai/examples/normalizing_flows_i) by [pyro.ai](https://pyro.ai)<br>
-   A tutorial about how to use the `pyro-ppl` library (based on PyTorch) to use Normalizing flows. They provide some SOTA methods including NSF and MAF. [Parts 2 and 3 coming later](https://github.com/pyro-ppl/pyro/issues/1992) ⭐ 9,046 | 🐛 286 | 🌐 Python | 📅 2026-09-07.
+   A tutorial about how to use the `pyro-ppl` library (based on PyTorch) to use Normalizing flows. They provide some SOTA methods including NSF and MAF. [Parts 2 and 3 coming later](https://github.com/pyro-ppl/pyro/issues/1992) ⭐ 9,048 | 🐛 286 | 🌐 Python | 📅 2026-09-07.
 
 2. 2021-08-21 - [NICE: Non-linear Independent Components Estimation](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/NICE_Non_linear_Independent_Components_Estimation) ⭐ 2,878 | 🐛 0 | 🌐 Python | 📅 2026-08-30 by Maxime Vandegar
      <img src="https://img.shields.io/github/stars/MaximeVandegar/Papers-in-100-Lines-of-Code" alt="GitHub repo stars" valign="middle" /><br>
@@ -405,7 +405,7 @@ Zuko is used in [LAMPE](https://github.com/francois-rozet/lampe) ⭐ 136 | 🐛 
      <img src="https://img.shields.io/github/stars/RameenAbdal/StyleFlow" alt="GitHub repo stars" valign="middle" /><br>
    Attribute-conditioned Exploration of StyleGAN-generated Images using Conditional Continuous Normalizing Flows. \[[Docs](https://rameenabdal.github.io/StyleFlow)]
 
-4. 2019-12-09 - [pytorch-normalizing-flows](https://github.com/karpathy/pytorch-normalizing-flows) ⭐ 920 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2020-01-27 by Andrej Karpathy
+4. 2019-12-09 - [pytorch-normalizing-flows](https://github.com/karpathy/pytorch-normalizing-flows) ⭐ 919 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2020-01-27 by Andrej Karpathy
      <img src="https://img.shields.io/github/stars/karpathy/pytorch-normalizing-flows" alt="GitHub repo stars" valign="middle" /><br>
    A Jupyter notebook with PyTorch implementations of the most commonly used flows: NICE, RNVP, MAF, Glow, NSF.
 
@@ -479,7 +479,7 @@ Table 1 in the paper has a good comparison with traditional NFs.
 
 2. 2017-03-21 - [NormFlows](https://github.com/andymiller/NormFlows) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2019-06-19 by Andy Miller
      <img src="https://img.shields.io/github/stars/andymiller/NormFlows" alt="GitHub repo stars" valign="middle" /><br>
-   Simple didactic example using [`autograd`](https://github.com/HIPS/autograd) ⭐ 7,527 | 🐛 182 | 🌐 Python | 📅 2026-09-07, so pretty low-level.
+   Simple didactic example using [`autograd`](https://github.com/HIPS/autograd) ⭐ 7,527 | 🐛 181 | 🌐 Python | 📅 2026-09-08, so pretty low-level.
 
 <br>
 
@@ -507,10 +507,10 @@ Table 1 in the paper has a good comparison with traditional NFs.
 See something that's missing from this list? PRs welcome! A good place to find new items for the Repos section is the [Normalizing Flows topic on GitHub](https://github.com/topics/normalizing-flows).
 
 Note: Don't edit the readme directly (it's auto-generated). Add your submission
-to the appropriate [`data/*.yml`](https://github.com/janosh/awesome-normalizing-flows/edit/main/data) ⭐ 1,637 | 🐛 0 | 🌐 Python | 📅 2026-07-31 file.
+to the appropriate [`data/*.yml`](https://github.com/janosh/awesome-normalizing-flows/edit/main/data) ⭐ 1,636 | 🐛 0 | 🌐 Python | 📅 2026-07-31 file.
 
-Papers should be peer-reviewed and published in a journal. If you're unsure if a paper or resource belongs in this list, feel free to [open an issue](https://github.com/janosh/awesome-normalizing-flows/issues/new) ⭐ 1,637 | 🐛 0 | 🌐 Python | 📅 2026-07-31 or [start a discussion](https://github.com/janosh/awesome-normalizing-flows/discussions) ⭐ 1,637 | 🐛 0 | 🌐 Python | 📅 2026-07-31. This repo is meant to be a community effort. Don't hesitate to voice an opinion.
+Papers should be peer-reviewed and published in a journal. If you're unsure if a paper or resource belongs in this list, feel free to [open an issue](https://github.com/janosh/awesome-normalizing-flows/issues/new) ⭐ 1,636 | 🐛 0 | 🌐 Python | 📅 2026-07-31 or [start a discussion](https://github.com/janosh/awesome-normalizing-flows/discussions) ⭐ 1,636 | 🐛 0 | 🌐 Python | 📅 2026-07-31. This repo is meant to be a community effort. Don't hesitate to voice an opinion.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
