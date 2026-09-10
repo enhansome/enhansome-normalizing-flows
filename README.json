@@ -743,7 +743,7 @@
                 "open_issues": 728,
                 "owner": "tensorflow",
                 "repo": "probability",
-                "stars": 4432,
+                "stars": 4433,
                 "topics": [
                   "bayesian-methods",
                   "data-science",
@@ -777,7 +777,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-09T16:29:38Z",
-                "open_issues": 60,
+                "open_issues": 61,
                 "owner": "google-deepmind",
                 "repo": "distrax",
                 "stars": 650,
@@ -938,7 +938,7 @@
                 "id": 426661999,
                 "language": "Julia",
                 "license": "MIT",
-                "last_commit": "2026-09-08T13:20:47Z",
+                "last_commit": "2026-09-10T13:23:06Z",
                 "open_issues": 2,
                 "owner": "impICNF",
                 "repo": "ContinuousNormalizingFlows.jl",
@@ -982,10 +982,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-07T03:31:31Z",
-                "open_issues": 287,
+                "open_issues": 288,
                 "owner": "pyro-ppl",
                 "repo": "pyro",
-                "stars": 9050,
+                "stars": 9051,
                 "topics": [
                   "bayesian",
                   "bayesian-inference",
@@ -1016,7 +1016,7 @@
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2879,
+                "stars": 2881,
                 "topics": [
                   "3d",
                   "aes",
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T19:58:24.984Z",
+    "last_updated": "2026-09-10T19:58:56.831Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
