@@ -121,7 +121,7 @@
             "open_issues": 2,
             "owner": "johannbrehmer",
             "repo": "manifold-flow",
-            "stars": 237,
+            "stars": 238,
             "topics": [
               "density-estimation",
               "manifold-learning",
@@ -776,8 +776,8 @@
                 "id": 353770320,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T16:29:38Z",
-                "open_issues": 61,
+                "last_commit": "2026-09-10T21:54:54Z",
+                "open_issues": 62,
                 "owner": "google-deepmind",
                 "repo": "distrax",
                 "stars": 650,
@@ -985,7 +985,7 @@
                 "open_issues": 288,
                 "owner": "pyro-ppl",
                 "repo": "pyro",
-                "stars": 9051,
+                "stars": 9052,
                 "topics": [
                   "bayesian",
                   "bayesian-inference",
@@ -1016,7 +1016,7 @@
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2881,
+                "stars": 2882,
                 "topics": [
                   "3d",
                   "aes",
@@ -1359,7 +1359,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 9999,
+                "stars": 10000,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T19:58:56.831Z",
+    "last_updated": "2026-09-11T19:58:29.674Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
