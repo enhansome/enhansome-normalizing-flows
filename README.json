@@ -610,7 +610,7 @@
                 "open_issues": 17,
                 "owner": "bayesiains",
                 "repo": "nflows",
-                "stars": 1019,
+                "stars": 1020,
                 "topics": [
                   "density-estimation",
                   "generative-model",
@@ -739,7 +739,7 @@
                 "id": 108053674,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T17:11:35Z",
+                "last_commit": "2026-09-15T20:21:21Z",
                 "open_issues": 728,
                 "owner": "tensorflow",
                 "repo": "probability",
@@ -776,8 +776,8 @@
                 "id": 353770320,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T21:54:54Z",
-                "open_issues": 63,
+                "last_commit": "2026-09-14T22:14:52Z",
+                "open_issues": 64,
                 "owner": "google-deepmind",
                 "repo": "distrax",
                 "stars": 651,
@@ -938,7 +938,7 @@
                 "id": 426661999,
                 "language": "Julia",
                 "license": "MIT",
-                "last_commit": "2026-09-10T13:23:06Z",
+                "last_commit": "2026-09-15T13:56:36Z",
                 "open_issues": 2,
                 "owner": "impICNF",
                 "repo": "ContinuousNormalizingFlows.jl",
@@ -985,7 +985,7 @@
                 "open_issues": 290,
                 "owner": "pyro-ppl",
                 "repo": "pyro",
-                "stars": 9056,
+                "stars": 9055,
                 "topics": [
                   "bayesian",
                   "bayesian-inference",
@@ -1016,7 +1016,7 @@
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2885,
+                "stars": 2886,
                 "topics": [
                   "3d",
                   "aes",
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T21:01:54.888Z",
+    "last_updated": "2026-09-15T20:23:40.759Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
