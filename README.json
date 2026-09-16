@@ -636,7 +636,7 @@
                 "open_issues": 15,
                 "owner": "VincentStimper",
                 "repo": "normalizing-flows",
-                "stars": 959,
+                "stars": 960,
                 "topics": [
                   "density-estimation",
                   "glow",
@@ -740,10 +740,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-15T20:21:21Z",
-                "open_issues": 728,
+                "open_issues": 729,
                 "owner": "tensorflow",
                 "repo": "probability",
-                "stars": 4432,
+                "stars": 4431,
                 "topics": [
                   "bayesian-methods",
                   "data-science",
@@ -776,11 +776,11 @@
                 "id": 353770320,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-14T22:14:52Z",
-                "open_issues": 64,
+                "last_commit": "2026-09-16T18:17:40Z",
+                "open_issues": 63,
                 "owner": "google-deepmind",
                 "repo": "distrax",
-                "stars": 651,
+                "stars": 654,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -982,7 +982,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-07T03:31:31Z",
-                "open_issues": 290,
+                "open_issues": 291,
                 "owner": "pyro-ppl",
                 "repo": "pyro",
                 "stars": 9055,
@@ -1016,7 +1016,7 @@
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2886,
+                "stars": 2887,
                 "topics": [
                   "3d",
                   "aes",
@@ -1359,7 +1359,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 10000,
+                "stars": 10002,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T20:23:40.759Z",
+    "last_updated": "2026-09-16T20:22:06.932Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
