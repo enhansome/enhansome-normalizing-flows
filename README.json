@@ -780,7 +780,7 @@
                 "open_issues": 63,
                 "owner": "google-deepmind",
                 "repo": "distrax",
-                "stars": 654,
+                "stars": 655,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T20:22:06.932Z",
+    "last_updated": "2026-09-17T20:30:03.899Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
