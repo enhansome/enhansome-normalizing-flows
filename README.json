@@ -47,7 +47,7 @@
             "open_issues": 14,
             "owner": "openai",
             "repo": "iaf",
-            "stars": 529,
+            "stars": 527,
             "topics": [
               "paper"
             ]
@@ -740,10 +740,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-15T20:21:21Z",
-                "open_issues": 729,
+                "open_issues": 730,
                 "owner": "tensorflow",
                 "repo": "probability",
-                "stars": 4431,
+                "stars": 4432,
                 "topics": [
                   "bayesian-methods",
                   "data-science",
@@ -869,7 +869,7 @@
                 "open_issues": 7,
                 "owner": "kokabsc",
                 "repo": "gwkokab",
-                "stars": 28,
+                "stars": 29,
                 "topics": [
                   "astrophysics",
                   "bayesian-inference",
@@ -938,7 +938,7 @@
                 "id": 426661999,
                 "language": "Julia",
                 "license": "MIT",
-                "last_commit": "2026-09-15T13:56:36Z",
+                "last_commit": "2026-09-18T16:52:17Z",
                 "open_issues": 2,
                 "owner": "impICNF",
                 "repo": "ContinuousNormalizingFlows.jl",
@@ -985,7 +985,7 @@
                 "open_issues": 291,
                 "owner": "pyro-ppl",
                 "repo": "pyro",
-                "stars": 9055,
+                "stars": 9056,
                 "topics": [
                   "bayesian",
                   "bayesian-inference",
@@ -1084,7 +1084,7 @@
                 "open_issues": 9,
                 "owner": "karpathy",
                 "repo": "pytorch-normalizing-flows",
-                "stars": 919,
+                "stars": 918,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T20:30:03.899Z",
+    "last_updated": "2026-09-18T19:53:59.749Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
