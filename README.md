@@ -6,7 +6,7 @@
 
 <h4 align="center">
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 507,478 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 507,831 | 🐛 106 | 📅 2026-09-02
 [![Pull Requests Welcome](https://img.shields.io/badge/Pull%20Requests-welcome-brightgreen.svg?logo=github)](#-contributing)
 [![Link Check](https://github.com/janosh/awesome-normalizing-flows/actions/workflows/link-check.yml/badge.svg)](https://github.com/janosh/awesome-normalizing-flows/actions/workflows/link-check.yml) ⭐ 1,636 | 🐛 0 | 🌐 Python | 📅 2026-07-31
 [![DOI](https://zenodo.org/badge/227366838.svg)](https://zenodo.org/badge/latestdoi/227366838)
@@ -346,7 +346,7 @@ Zuko is used in [LAMPE](https://github.com/francois-rozet/lampe) ⭐ 136 | 🐛 
 
 ### <img src="assets/tensorflow.svg" alt="TensorFlow" height="20px">  TensorFlow Packages
 
-1. 2018-06-22 - [TensorFlow Probability](https://github.com/tensorflow/probability) ⭐ 4,432 | 🐛 730 | 🌐 Jupyter Notebook | 📅 2026-09-15 by [Google](https://tensorflow.org/probability)
+1. 2018-06-22 - [TensorFlow Probability](https://github.com/tensorflow/probability) ⭐ 4,433 | 🐛 730 | 🌐 Jupyter Notebook | 📅 2026-09-15 by [Google](https://tensorflow.org/probability)
      <img src="https://img.shields.io/github/stars/tensorflow/probability" alt="GitHub repo stars" valign="middle" /><br>
    Large first-party library that offers RNVP, MAF among other autoregressive models plus a collection of composable bijectors.
 
@@ -513,4 +513,4 @@ Papers should be peer-reviewed and published in a journal. If you're unsure if a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._

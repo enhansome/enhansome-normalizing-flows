@@ -743,7 +743,7 @@
                 "open_issues": 730,
                 "owner": "tensorflow",
                 "repo": "probability",
-                "stars": 4432,
+                "stars": 4433,
                 "topics": [
                   "bayesian-methods",
                   "data-science",
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T19:53:59.749Z",
+    "last_updated": "2026-09-19T19:31:01.144Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
