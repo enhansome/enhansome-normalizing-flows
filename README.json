@@ -982,10 +982,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-07T03:31:31Z",
-                "open_issues": 291,
+                "open_issues": 292,
                 "owner": "pyro-ppl",
                 "repo": "pyro",
-                "stars": 9056,
+                "stars": 9057,
                 "topics": [
                   "bayesian",
                   "bayesian-inference",
@@ -1016,7 +1016,7 @@
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2887,
+                "stars": 2888,
                 "topics": [
                   "3d",
                   "aes",
@@ -1084,7 +1084,7 @@
                 "open_issues": 9,
                 "owner": "karpathy",
                 "repo": "pytorch-normalizing-flows",
-                "stars": 918,
+                "stars": 917,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T19:31:01.144Z",
+    "last_updated": "2026-09-20T19:40:35.713Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
