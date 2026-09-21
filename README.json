@@ -740,7 +740,7 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-15T20:21:21Z",
-                "open_issues": 730,
+                "open_issues": 731,
                 "owner": "tensorflow",
                 "repo": "probability",
                 "stars": 4433,
@@ -982,7 +982,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-07T03:31:31Z",
-                "open_issues": 292,
+                "open_issues": 293,
                 "owner": "pyro-ppl",
                 "repo": "pyro",
                 "stars": 9057,
@@ -1016,7 +1016,7 @@
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2888,
+                "stars": 2889,
                 "topics": [
                   "3d",
                   "aes",
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T19:40:35.713Z",
+    "last_updated": "2026-09-21T21:12:16.654Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
