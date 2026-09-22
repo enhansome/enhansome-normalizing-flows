@@ -636,7 +636,7 @@
                 "open_issues": 15,
                 "owner": "VincentStimper",
                 "repo": "normalizing-flows",
-                "stars": 960,
+                "stars": 961,
                 "topics": [
                   "density-estimation",
                   "glow",
@@ -668,7 +668,7 @@
                 "open_issues": 38,
                 "owner": "vislearn",
                 "repo": "FrEIA",
-                "stars": 861,
+                "stars": 862,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -938,7 +938,7 @@
                 "id": 426661999,
                 "language": "Julia",
                 "license": "MIT",
-                "last_commit": "2026-09-18T16:52:17Z",
+                "last_commit": "2026-09-22T14:25:02Z",
                 "open_issues": 2,
                 "owner": "impICNF",
                 "repo": "ContinuousNormalizingFlows.jl",
@@ -985,7 +985,7 @@
                 "open_issues": 293,
                 "owner": "pyro-ppl",
                 "repo": "pyro",
-                "stars": 9057,
+                "stars": 9058,
                 "topics": [
                   "bayesian",
                   "bayesian-inference",
@@ -1359,7 +1359,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 10002,
+                "stars": 10003,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T21:12:16.654Z",
+    "last_updated": "2026-09-22T20:25:53.263Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
