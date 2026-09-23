@@ -579,7 +579,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-03-10T08:38:48Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "probabilists",
                 "repo": "zuko",
                 "stars": 466,
@@ -636,7 +636,7 @@
                 "open_issues": 15,
                 "owner": "VincentStimper",
                 "repo": "normalizing-flows",
-                "stars": 961,
+                "stars": 960,
                 "topics": [
                   "density-estimation",
                   "glow",
@@ -777,7 +777,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-16T18:17:40Z",
-                "open_issues": 63,
+                "open_issues": 64,
                 "owner": "google-deepmind",
                 "repo": "distrax",
                 "stars": 655,
@@ -865,8 +865,8 @@
                 "id": 735423333,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T03:03:58Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-23T19:04:35Z",
+                "open_issues": 8,
                 "owner": "kokabsc",
                 "repo": "gwkokab",
                 "stars": 29,
@@ -1016,7 +1016,7 @@
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2889,
+                "stars": 2892,
                 "topics": [
                   "3d",
                   "aes",
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T20:25:53.263Z",
+    "last_updated": "2026-09-23T20:38:02.726Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
