@@ -1016,7 +1016,7 @@
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2892,
+                "stars": 2893,
                 "topics": [
                   "3d",
                   "aes",
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T20:41:24.616Z",
+    "last_updated": "2026-09-25T20:40:47.113Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
