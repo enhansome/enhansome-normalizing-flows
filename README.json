@@ -938,7 +938,7 @@
                 "id": 426661999,
                 "language": "Julia",
                 "license": "MIT",
-                "last_commit": "2026-09-22T14:25:02Z",
+                "last_commit": "2026-09-29T19:55:32Z",
                 "open_issues": 2,
                 "owner": "impICNF",
                 "repo": "ContinuousNormalizingFlows.jl",
@@ -982,10 +982,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-07T03:31:31Z",
-                "open_issues": 293,
+                "open_issues": 294,
                 "owner": "pyro-ppl",
                 "repo": "pyro",
-                "stars": 9059,
+                "stars": 9062,
                 "topics": [
                   "bayesian",
                   "bayesian-inference",
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T22:37:02.467Z",
+    "last_updated": "2026-09-29T21:30:47.652Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
