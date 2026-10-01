@@ -710,7 +710,7 @@
                 "open_issues": 0,
                 "owner": "thoglu",
                 "repo": "jammy_flows",
-                "stars": 47,
+                "stars": 48,
                 "topics": [
                   "manifolds",
                   "normalizing-flows",
@@ -743,7 +743,7 @@
                 "open_issues": 731,
                 "owner": "tensorflow",
                 "repo": "probability",
-                "stars": 4434,
+                "stars": 4435,
                 "topics": [
                   "bayesian-methods",
                   "data-science",
@@ -780,7 +780,7 @@
                 "open_issues": 65,
                 "owner": "google-deepmind",
                 "repo": "distrax",
-                "stars": 655,
+                "stars": 656,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -865,7 +865,7 @@
                 "id": 735423333,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T19:04:35Z",
+                "last_commit": "2026-10-01T01:33:53Z",
                 "open_issues": 8,
                 "owner": "kokabsc",
                 "repo": "gwkokab",
@@ -1012,11 +1012,11 @@
                 "id": 307222796,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-28T02:02:04Z",
+                "last_commit": "2026-09-30T21:32:11Z",
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2896,
+                "stars": 2897,
                 "topics": [
                   "3d",
                   "aes",
@@ -1359,7 +1359,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 10002,
+                "stars": 10005,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T21:30:52.826Z",
+    "last_updated": "2026-10-01T21:57:10.858Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
