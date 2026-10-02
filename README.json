@@ -776,8 +776,8 @@
                 "id": 353770320,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T18:17:40Z",
-                "open_issues": 65,
+                "last_commit": "2026-10-02T10:54:58Z",
+                "open_issues": 64,
                 "owner": "google-deepmind",
                 "repo": "distrax",
                 "stars": 656,
@@ -982,7 +982,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-07T03:31:31Z",
-                "open_issues": 293,
+                "open_issues": 300,
                 "owner": "pyro-ppl",
                 "repo": "pyro",
                 "stars": 9062,
@@ -1084,7 +1084,7 @@
                 "open_issues": 9,
                 "owner": "karpathy",
                 "repo": "pytorch-normalizing-flows",
-                "stars": 918,
+                "stars": 919,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -1359,7 +1359,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 10005,
+                "stars": 10007,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T21:57:10.858Z",
+    "last_updated": "2026-10-02T21:25:17.920Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
@@ -1407,7 +1407,7 @@
       "open_issues": 0,
       "owner": "janosh",
       "repo": "awesome-normalizing-flows",
-      "stars": 1636,
+      "stars": 1637,
       "topics": [
         "autoregressive",
         "awesome-list",
