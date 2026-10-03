@@ -6,9 +6,9 @@
 
 <h4 align="center">
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,701 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,797 | 🐛 106 | 📅 2026-09-02
 [![Pull Requests Welcome](https://img.shields.io/badge/Pull%20Requests-welcome-brightgreen.svg?logo=github)](#-contributing)
-[![Link Check](https://github.com/janosh/awesome-normalizing-flows/actions/workflows/link-check.yml/badge.svg)](https://github.com/janosh/awesome-normalizing-flows/actions/workflows/link-check.yml) ⭐ 1,637 | 🐛 0 | 🌐 Python | 📅 2026-07-31
+[![Link Check](https://github.com/janosh/awesome-normalizing-flows/actions/workflows/link-check.yml/badge.svg)](https://github.com/janosh/awesome-normalizing-flows/actions/workflows/link-check.yml)
 [![DOI](https://zenodo.org/badge/227366838.svg)](https://zenodo.org/badge/latestdoi/227366838)
 
 </h4>
@@ -507,10 +507,10 @@ Table 1 in the paper has a good comparison with traditional NFs.
 See something that's missing from this list? PRs welcome! A good place to find new items for the Repos section is the [Normalizing Flows topic on GitHub](https://github.com/topics/normalizing-flows).
 
 Note: Don't edit the readme directly (it's auto-generated). Add your submission
-to the appropriate [`data/*.yml`](https://github.com/janosh/awesome-normalizing-flows/edit/main/data) ⭐ 1,637 | 🐛 0 | 🌐 Python | 📅 2026-07-31 file.
+to the appropriate [`data/*.yml`](https://github.com/janosh/awesome-normalizing-flows/edit/main/data) file.
 
-Papers should be peer-reviewed and published in a journal. If you're unsure if a paper or resource belongs in this list, feel free to [open an issue](https://github.com/janosh/awesome-normalizing-flows/issues/new) ⭐ 1,637 | 🐛 0 | 🌐 Python | 📅 2026-07-31 or [start a discussion](https://github.com/janosh/awesome-normalizing-flows/discussions) ⭐ 1,637 | 🐛 0 | 🌐 Python | 📅 2026-07-31. This repo is meant to be a community effort. Don't hesitate to voice an opinion.
+Papers should be peer-reviewed and published in a journal. If you're unsure if a paper or resource belongs in this list, feel free to [open an issue](https://github.com/janosh/awesome-normalizing-flows/issues/new) or [start a discussion](https://github.com/janosh/awesome-normalizing-flows/discussions). This repo is meant to be a community effort. Don't hesitate to voice an opinion.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
