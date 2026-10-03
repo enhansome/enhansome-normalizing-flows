@@ -777,7 +777,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T10:54:58Z",
-                "open_issues": 64,
+                "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "distrax",
                 "stars": 656,
@@ -981,8 +981,8 @@
                 "id": 94506832,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T03:31:31Z",
-                "open_issues": 300,
+                "last_commit": "2026-10-03T18:23:21Z",
+                "open_issues": 301,
                 "owner": "pyro-ppl",
                 "repo": "pyro",
                 "stars": 9062,
@@ -1016,7 +1016,7 @@
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2897,
+                "stars": 2898,
                 "topics": [
                   "3d",
                   "aes",
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:59:09.915Z",
+    "last_updated": "2026-10-03T20:07:09.901Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
