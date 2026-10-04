@@ -777,10 +777,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T10:54:58Z",
-                "open_issues": 66,
+                "open_issues": 68,
                 "owner": "google-deepmind",
                 "repo": "distrax",
-                "stars": 656,
+                "stars": 657,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -865,8 +865,8 @@
                 "id": 735423333,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T01:33:53Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-04T17:24:28Z",
+                "open_issues": 7,
                 "owner": "kokabsc",
                 "repo": "gwkokab",
                 "stars": 29,
@@ -985,7 +985,7 @@
                 "open_issues": 301,
                 "owner": "pyro-ppl",
                 "repo": "pyro",
-                "stars": 9062,
+                "stars": 9061,
                 "topics": [
                   "bayesian",
                   "bayesian-inference",
@@ -1359,7 +1359,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 10007,
+                "stars": 10008,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T20:07:09.901Z",
+    "last_updated": "2026-10-04T20:22:14.247Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
