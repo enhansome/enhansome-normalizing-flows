@@ -6,7 +6,7 @@
 
 <h4 align="center">
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,602 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 516,066 | 🐛 106 | 📅 2026-09-02
 [![Pull Requests Welcome](https://img.shields.io/badge/Pull%20Requests-welcome-brightgreen.svg?logo=github)](#-contributing)
 [![Link Check](https://github.com/janosh/awesome-normalizing-flows/actions/workflows/link-check.yml/badge.svg)](https://github.com/janosh/awesome-normalizing-flows/actions/workflows/link-check.yml)
 [![DOI](https://zenodo.org/badge/227366838.svg)](https://zenodo.org/badge/latestdoi/227366838)
@@ -22,7 +22,7 @@ A list of awesome resources for understanding and applying normalizing flows (NF
    </picture>
 </a>
 
-<sup>*Figure inspired by [Lilian Weng](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models). Created in [CeTZ](https://cetz-package.github.io). [View source](https://github.com/janosh/diagrams/blob/main/assets/normalizing-flow/normalizing-flow.typ) ⭐ 695 | 🐛 0 | 🌐 Typst | 📅 2026-10-05.*</sup>
+<sup>*Figure inspired by [Lilian Weng](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models). Created in [CeTZ](https://cetz-package.github.io). [View source](https://github.com/janosh/diagrams/blob/main/assets/normalizing-flow/normalizing-flow.typ) ⭐ 696 | 🐛 0 | 🌐 Typst | 📅 2026-10-05.*</sup>
 
 <br>
 
@@ -322,7 +322,7 @@ A list of awesome resources for understanding and applying normalizing flows (NF
 
 Zuko is used in [LAMPE](https://github.com/francois-rozet/lampe) ⭐ 137 | 🐛 0 | 🌐 Python | 📅 2024-08-21 to enable Likelihood-free AMortized Posterior Estimation with PyTorch.
 
-1. 2020-02-09 - [nflows](https://github.com/bayesiains/nflows) ⭐ 1,020 | 🐛 17 | 🌐 Python | 📅 2024-12-27 by [Bayesiains](https://homepages.inf.ed.ac.uk/imurray2/group)
+1. 2020-02-09 - [nflows](https://github.com/bayesiains/nflows) ⭐ 1,021 | 🐛 17 | 🌐 Python | 📅 2024-12-27 by [Bayesiains](https://homepages.inf.ed.ac.uk/imurray2/group)
      <img src="https://img.shields.io/github/stars/bayesiains/nflows" alt="GitHub repo stars" valign="middle" /><br>
    A suite of most of the SOTA methods using PyTorch. From an ML group in Edinburgh. They created the current SOTA spline flows. Almost as complete as you'll find from a single repo.
 
@@ -354,7 +354,7 @@ Zuko is used in [LAMPE](https://github.com/francois-rozet/lampe) ⭐ 137 | 🐛 
 
 ### <img src="assets/jax.svg" alt="JAX" height="20px">  JAX Packages
 
-1. 2021-04-12 - [Distrax](https://github.com/deepmind/distrax) ⭐ 657 | 🐛 75 | 🌐 Python | 📅 2026-10-06 by [DeepMind](https://deepmind.com)
+1. 2021-04-12 - [Distrax](https://github.com/deepmind/distrax) ⭐ 657 | 🐛 77 | 🌐 Python | 📅 2026-10-07 by [DeepMind](https://deepmind.com)
      <img src="https://img.shields.io/github/stars/deepmind/distrax" alt="GitHub repo stars" valign="middle" /><br>
    Distrax is a lightweight library of probability distributions and bijectors. It acts as a JAX-native re-implementation of a subset of TensorFlow Probability (TFP), with some new features and emphasis on extensibility.
 
@@ -513,4 +513,4 @@ Papers should be peer-reviewed and published in a journal. If you're unsure if a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
