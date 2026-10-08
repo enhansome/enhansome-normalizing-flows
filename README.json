@@ -740,7 +740,7 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-06T09:49:49Z",
-                "open_issues": 731,
+                "open_issues": 732,
                 "owner": "tensorflow",
                 "repo": "probability",
                 "stars": 4436,
@@ -776,8 +776,8 @@
                 "id": 353770320,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T21:05:33Z",
-                "open_issues": 77,
+                "last_commit": "2026-10-08T19:11:24Z",
+                "open_issues": 78,
                 "owner": "google-deepmind",
                 "repo": "distrax",
                 "stars": 657,
@@ -985,7 +985,7 @@
                 "open_issues": 301,
                 "owner": "pyro-ppl",
                 "repo": "pyro",
-                "stars": 9062,
+                "stars": 9063,
                 "topics": [
                   "bayesian",
                   "bayesian-inference",
@@ -1016,7 +1016,7 @@
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2900,
+                "stars": 2901,
                 "topics": [
                   "3d",
                   "aes",
@@ -1275,8 +1275,8 @@
                 "id": 237158627,
                 "language": "Jupyter Notebook",
                 "license": "GPL-3.0",
-                "last_commit": "2026-07-26T09:08:09Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-08T12:52:09Z",
+                "open_issues": 1,
                 "owner": "LukasRinder",
                 "repo": "normalizing-flows",
                 "stars": 147,
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T22:12:32.183Z",
+    "last_updated": "2026-10-08T22:19:44.798Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
