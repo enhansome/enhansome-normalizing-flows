@@ -636,7 +636,7 @@
                 "open_issues": 15,
                 "owner": "VincentStimper",
                 "repo": "normalizing-flows",
-                "stars": 960,
+                "stars": 961,
                 "topics": [
                   "density-estimation",
                   "glow",
@@ -776,7 +776,7 @@
                 "id": 353770320,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T19:11:24Z",
+                "last_commit": "2026-10-09T07:24:39Z",
                 "open_issues": 78,
                 "owner": "google-deepmind",
                 "repo": "distrax",
@@ -865,7 +865,7 @@
                 "id": 735423333,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-04T17:24:28Z",
+                "last_commit": "2026-10-09T05:32:46Z",
                 "open_issues": 7,
                 "owner": "kokabsc",
                 "repo": "gwkokab",
@@ -985,7 +985,7 @@
                 "open_issues": 301,
                 "owner": "pyro-ppl",
                 "repo": "pyro",
-                "stars": 9063,
+                "stars": 9065,
                 "topics": [
                   "bayesian",
                   "bayesian-inference",
@@ -1016,7 +1016,7 @@
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2901,
+                "stars": 2904,
                 "topics": [
                   "3d",
                   "aes",
@@ -1359,7 +1359,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 10008,
+                "stars": 10007,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T22:19:44.798Z",
+    "last_updated": "2026-10-09T21:50:42.354Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
@@ -1407,7 +1407,7 @@
       "open_issues": 0,
       "owner": "janosh",
       "repo": "awesome-normalizing-flows",
-      "stars": 1638,
+      "stars": 1639,
       "topics": [
         "autoregressive",
         "awesome-list",
