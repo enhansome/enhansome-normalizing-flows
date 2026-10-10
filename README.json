@@ -668,7 +668,7 @@
                 "open_issues": 38,
                 "owner": "vislearn",
                 "repo": "FrEIA",
-                "stars": 862,
+                "stars": 863,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -743,7 +743,7 @@
                 "open_issues": 732,
                 "owner": "tensorflow",
                 "repo": "probability",
-                "stars": 4436,
+                "stars": 4437,
                 "topics": [
                   "bayesian-methods",
                   "data-science",
@@ -777,7 +777,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-09T07:24:39Z",
-                "open_issues": 78,
+                "open_issues": 80,
                 "owner": "google-deepmind",
                 "repo": "distrax",
                 "stars": 657,
@@ -982,7 +982,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-05T18:42:13Z",
-                "open_issues": 301,
+                "open_issues": 302,
                 "owner": "pyro-ppl",
                 "repo": "pyro",
                 "stars": 9065,
@@ -1016,7 +1016,7 @@
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2904,
+                "stars": 2903,
                 "topics": [
                   "3d",
                   "aes",
@@ -1158,7 +1158,7 @@
                 "open_issues": 3,
                 "owner": "acids-ircam",
                 "repo": "pytorch_flows",
-                "stars": 169,
+                "stars": 170,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T21:50:42.354Z",
+    "last_updated": "2026-10-10T20:39:09.371Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
