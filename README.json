@@ -582,7 +582,7 @@
                 "open_issues": 5,
                 "owner": "probabilists",
                 "repo": "zuko",
-                "stars": 466,
+                "stars": 467,
                 "topics": [
                   "deep-learning",
                   "density-estimation",
@@ -776,8 +776,8 @@
                 "id": 353770320,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T07:24:39Z",
-                "open_issues": 80,
+                "last_commit": "2026-10-11T13:19:05Z",
+                "open_issues": 79,
                 "owner": "google-deepmind",
                 "repo": "distrax",
                 "stars": 657,
@@ -985,7 +985,7 @@
                 "open_issues": 302,
                 "owner": "pyro-ppl",
                 "repo": "pyro",
-                "stars": 9065,
+                "stars": 9064,
                 "topics": [
                   "bayesian",
                   "bayesian-inference",
@@ -1359,7 +1359,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 10007,
+                "stars": 10008,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T20:39:09.371Z",
+    "last_updated": "2026-10-11T21:02:33.683Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
