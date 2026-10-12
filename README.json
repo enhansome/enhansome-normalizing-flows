@@ -776,8 +776,8 @@
                 "id": 353770320,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-11T13:19:05Z",
-                "open_issues": 79,
+                "last_commit": "2026-10-12T02:11:00Z",
+                "open_issues": 80,
                 "owner": "google-deepmind",
                 "repo": "distrax",
                 "stars": 657,
@@ -982,7 +982,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-05T18:42:13Z",
-                "open_issues": 302,
+                "open_issues": 303,
                 "owner": "pyro-ppl",
                 "repo": "pyro",
                 "stars": 9064,
@@ -1058,7 +1058,7 @@
                 "open_issues": 80,
                 "owner": "RameenAbdal",
                 "repo": "StyleFlow",
-                "stars": 2441,
+                "stars": 2442,
                 "topics": [
                   "faces",
                   "quality",
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T21:02:33.683Z",
+    "last_updated": "2026-10-12T23:44:19.631Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
