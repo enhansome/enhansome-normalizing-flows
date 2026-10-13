@@ -866,7 +866,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-09T05:32:46Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "kokabsc",
                 "repo": "gwkokab",
                 "stars": 29,
@@ -938,7 +938,7 @@
                 "id": 426661999,
                 "language": "Julia",
                 "license": "MIT",
-                "last_commit": "2026-10-06T15:41:53Z",
+                "last_commit": "2026-10-13T16:31:14Z",
                 "open_issues": 2,
                 "owner": "impICNF",
                 "repo": "ContinuousNormalizingFlows.jl",
@@ -985,7 +985,7 @@
                 "open_issues": 303,
                 "owner": "pyro-ppl",
                 "repo": "pyro",
-                "stars": 9064,
+                "stars": 9065,
                 "topics": [
                   "bayesian",
                   "bayesian-inference",
@@ -1016,7 +1016,7 @@
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2903,
+                "stars": 2904,
                 "topics": [
                   "3d",
                   "aes",
@@ -1084,7 +1084,7 @@
                 "open_issues": 9,
                 "owner": "karpathy",
                 "repo": "pytorch-normalizing-flows",
-                "stars": 919,
+                "stars": 920,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -1359,7 +1359,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 10008,
+                "stars": 10007,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T23:44:19.631Z",
+    "last_updated": "2026-10-13T21:55:59.602Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
