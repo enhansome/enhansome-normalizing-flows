@@ -739,7 +739,7 @@
                 "id": 108053674,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T17:20:43Z",
+                "last_commit": "2026-10-16T21:42:49Z",
                 "open_issues": 733,
                 "owner": "tensorflow",
                 "repo": "probability",
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T20:01:17.386Z",
+    "last_updated": "2026-10-17T19:38:32.837Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
