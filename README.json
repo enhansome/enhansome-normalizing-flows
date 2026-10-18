@@ -743,7 +743,7 @@
                 "open_issues": 733,
                 "owner": "tensorflow",
                 "repo": "probability",
-                "stars": 4438,
+                "stars": 4441,
                 "topics": [
                   "bayesian-methods",
                   "data-science",
@@ -982,10 +982,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-05T18:42:13Z",
-                "open_issues": 307,
+                "open_issues": 308,
                 "owner": "pyro-ppl",
                 "repo": "pyro",
-                "stars": 9065,
+                "stars": 9066,
                 "topics": [
                   "bayesian",
                   "bayesian-inference",
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T19:38:32.837Z",
+    "last_updated": "2026-10-18T19:33:27.846Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
