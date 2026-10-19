@@ -579,7 +579,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-03-10T08:38:48Z",
-                "open_issues": 5,
+                "open_issues": 7,
                 "owner": "probabilists",
                 "repo": "zuko",
                 "stars": 467,
@@ -610,7 +610,7 @@
                 "open_issues": 17,
                 "owner": "bayesiains",
                 "repo": "nflows",
-                "stars": 1021,
+                "stars": 1020,
                 "topics": [
                   "density-estimation",
                   "generative-model",
@@ -706,7 +706,7 @@
                 "id": 332748484,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-07-22T20:13:08Z",
+                "last_commit": "2026-10-19T15:02:25Z",
                 "open_issues": 0,
                 "owner": "thoglu",
                 "repo": "jammy_flows",
@@ -982,10 +982,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-05T18:42:13Z",
-                "open_issues": 308,
+                "open_issues": 310,
                 "owner": "pyro-ppl",
                 "repo": "pyro",
-                "stars": 9066,
+                "stars": 9068,
                 "topics": [
                   "bayesian",
                   "bayesian-inference",
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T19:33:27.846Z",
+    "last_updated": "2026-10-19T21:41:38.425Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
