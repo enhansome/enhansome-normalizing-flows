@@ -6,7 +6,7 @@
 
 <h4 align="center">
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 521,897 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 522,325 | 🐛 105 | 📅 2026-09-02
 [![Pull Requests Welcome](https://img.shields.io/badge/Pull%20Requests-welcome-brightgreen.svg?logo=github)](#-contributing)
 [![Link Check](https://github.com/janosh/awesome-normalizing-flows/actions/workflows/link-check.yml/badge.svg)](https://github.com/janosh/awesome-normalizing-flows/actions/workflows/link-check.yml)
 [![DOI](https://zenodo.org/badge/227366838.svg)](https://zenodo.org/badge/latestdoi/227366838)
@@ -22,7 +22,7 @@ A list of awesome resources for understanding and applying normalizing flows (NF
    </picture>
 </a>
 
-<sup>*Figure inspired by [Lilian Weng](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models). Created in [CeTZ](https://cetz-package.github.io). [View source](https://github.com/janosh/diagrams/blob/main/assets/normalizing-flow/normalizing-flow.typ) ⭐ 704 | 🐛 0 | 🌐 Typst | 📅 2026-10-20.*</sup>
+<sup>*Figure inspired by [Lilian Weng](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models). Created in [CeTZ](https://cetz-package.github.io). [View source](https://github.com/janosh/diagrams/blob/main/assets/normalizing-flow/normalizing-flow.typ) ⭐ 705 | 🐛 0 | 🌐 Typst | 📅 2026-10-21.*</sup>
 
 <br>
 
@@ -322,7 +322,7 @@ A list of awesome resources for understanding and applying normalizing flows (NF
 
 Zuko is used in [LAMPE](https://github.com/francois-rozet/lampe) ⭐ 137 | 🐛 0 | 🌐 Python | 📅 2024-08-21 to enable Likelihood-free AMortized Posterior Estimation with PyTorch.
 
-1. 2020-02-09 - [nflows](https://github.com/bayesiains/nflows) ⭐ 1,020 | 🐛 17 | 🌐 Python | 📅 2024-12-27 by [Bayesiains](https://homepages.inf.ed.ac.uk/imurray2/group)
+1. 2020-02-09 - [nflows](https://github.com/bayesiains/nflows) ⭐ 1,021 | 🐛 17 | 🌐 Python | 📅 2024-12-27 by [Bayesiains](https://homepages.inf.ed.ac.uk/imurray2/group)
      <img src="https://img.shields.io/github/stars/bayesiains/nflows" alt="GitHub repo stars" valign="middle" /><br>
    A suite of most of the SOTA methods using PyTorch. From an ML group in Edinburgh. They created the current SOTA spline flows. Almost as complete as you'll find from a single repo.
 
@@ -346,7 +346,7 @@ Zuko is used in [LAMPE](https://github.com/francois-rozet/lampe) ⭐ 137 | 🐛 
 
 ### <img src="assets/tensorflow.svg" alt="TensorFlow" height="20px">  TensorFlow Packages
 
-1. 2018-06-22 - [TensorFlow Probability](https://github.com/tensorflow/probability) ⭐ 4,440 | 🐛 732 | 🌐 Jupyter Notebook | 📅 2026-10-16 by [Google](https://tensorflow.org/probability)
+1. 2018-06-22 - [TensorFlow Probability](https://github.com/tensorflow/probability) ⭐ 4,440 | 🐛 732 | 🌐 Jupyter Notebook | 📅 2026-10-21 by [Google](https://tensorflow.org/probability)
      <img src="https://img.shields.io/github/stars/tensorflow/probability" alt="GitHub repo stars" valign="middle" /><br>
    Large first-party library that offers RNVP, MAF among other autoregressive models plus a collection of composable bijectors.
 
@@ -397,7 +397,7 @@ Zuko is used in [LAMPE](https://github.com/francois-rozet/lampe) ⭐ 137 | 🐛 
 1. 2020-07-19 - [Normalizing Flows - Introduction (Part 1)](https://pyro.ai/examples/normalizing_flows_i) by [pyro.ai](https://pyro.ai)<br>
    A tutorial about how to use the `pyro-ppl` library (based on PyTorch) to use Normalizing flows. They provide some SOTA methods including NSF and MAF. [Parts 2 and 3 coming later](https://github.com/pyro-ppl/pyro/issues/1992) ⭐ 9,068 | 🐛 311 | 🌐 Python | 📅 2026-10-05.
 
-2. 2021-08-21 - [NICE: Non-linear Independent Components Estimation](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/NICE_Non_linear_Independent_Components_Estimation) ⭐ 2,905 | 🐛 0 | 🌐 Python | 📅 2026-09-30 by Maxime Vandegar
+2. 2021-08-21 - [NICE: Non-linear Independent Components Estimation](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/NICE_Non_linear_Independent_Components_Estimation) ⭐ 2,904 | 🐛 0 | 🌐 Python | 📅 2026-09-30 by Maxime Vandegar
      <img src="https://img.shields.io/github/stars/MaximeVandegar/Papers-in-100-Lines-of-Code" alt="GitHub repo stars" valign="middle" /><br>
    PyTorch implementation that reproduces results from the paper NICE in about 100 lines of code.
 
@@ -405,7 +405,7 @@ Zuko is used in [LAMPE](https://github.com/francois-rozet/lampe) ⭐ 137 | 🐛 
      <img src="https://img.shields.io/github/stars/RameenAbdal/StyleFlow" alt="GitHub repo stars" valign="middle" /><br>
    Attribute-conditioned Exploration of StyleGAN-generated Images using Conditional Continuous Normalizing Flows. \[[Docs](https://rameenabdal.github.io/StyleFlow)]
 
-4. 2019-12-09 - [pytorch-normalizing-flows](https://github.com/karpathy/pytorch-normalizing-flows) ⭐ 920 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2020-01-27 by Andrej Karpathy
+4. 2019-12-09 - [pytorch-normalizing-flows](https://github.com/karpathy/pytorch-normalizing-flows) ⭐ 921 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2020-01-27 by Andrej Karpathy
      <img src="https://img.shields.io/github/stars/karpathy/pytorch-normalizing-flows" alt="GitHub repo stars" valign="middle" /><br>
    A Jupyter notebook with PyTorch implementations of the most commonly used flows: NICE, RNVP, MAF, Glow, NSF.
 
@@ -475,7 +475,7 @@ Zuko is used in [LAMPE](https://github.com/francois-rozet/lampe) ⭐ 137 | 🐛 
 Table 1 in the paper has a good comparison with traditional NFs.
 
 1. 2017-07-11 - [Normalizing Flows Overview](https://www.pymc.io/projects/examples/en/2022.12.0/variational_inference/normalizing_flows_overview.html) by PyMC3<br>
-   A very helpful notebook showcasing how to work with flows in practice and comparing it to PyMC3's NUTS-based HMC kernel. Based on [Theano](https://github.com/Theano/Theano) ⭐ 10,008 | 🐛 699 | 🌐 Python | 📅 2024-01-15.
+   A very helpful notebook showcasing how to work with flows in practice and comparing it to PyMC3's NUTS-based HMC kernel. Based on [Theano](https://github.com/Theano/Theano) ⭐ 10,010 | 🐛 699 | 🌐 Python | 📅 2024-01-15.
 
 2. 2017-03-21 - [NormFlows](https://github.com/andymiller/NormFlows) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2019-06-19 by Andy Miller
      <img src="https://img.shields.io/github/stars/andymiller/NormFlows" alt="GitHub repo stars" valign="middle" /><br>
@@ -513,4 +513,4 @@ Papers should be peer-reviewed and published in a journal. If you're unsure if a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._

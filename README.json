@@ -610,7 +610,7 @@
                 "open_issues": 17,
                 "owner": "bayesiains",
                 "repo": "nflows",
-                "stars": 1020,
+                "stars": 1021,
                 "topics": [
                   "density-estimation",
                   "generative-model",
@@ -739,7 +739,7 @@
                 "id": 108053674,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T21:42:49Z",
+                "last_commit": "2026-10-21T18:46:18Z",
                 "open_issues": 732,
                 "owner": "tensorflow",
                 "repo": "probability",
@@ -1016,7 +1016,7 @@
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2905,
+                "stars": 2904,
                 "topics": [
                   "3d",
                   "aes",
@@ -1084,7 +1084,7 @@
                 "open_issues": 9,
                 "owner": "karpathy",
                 "repo": "pytorch-normalizing-flows",
-                "stars": 920,
+                "stars": 921,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -1359,7 +1359,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 10008,
+                "stars": 10010,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T20:47:37.100Z",
+    "last_updated": "2026-10-21T20:49:51.718Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
