@@ -668,7 +668,7 @@
                 "open_issues": 38,
                 "owner": "vislearn",
                 "repo": "FrEIA",
-                "stars": 863,
+                "stars": 864,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -740,7 +740,7 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-21T18:46:18Z",
-                "open_issues": 732,
+                "open_issues": 731,
                 "owner": "tensorflow",
                 "repo": "probability",
                 "stars": 4440,
@@ -777,7 +777,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-20T11:27:08Z",
-                "open_issues": 81,
+                "open_issues": 82,
                 "owner": "google-deepmind",
                 "repo": "distrax",
                 "stars": 657,
@@ -982,7 +982,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-05T18:42:13Z",
-                "open_issues": 311,
+                "open_issues": 312,
                 "owner": "pyro-ppl",
                 "repo": "pyro",
                 "stars": 9068,
@@ -1012,7 +1012,7 @@
                 "id": 307222796,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-30T21:32:11Z",
+                "last_commit": "2026-10-21T21:14:00Z",
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T20:49:51.718Z",
+    "last_updated": "2026-10-22T20:43:38.140Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
