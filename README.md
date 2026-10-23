@@ -6,7 +6,7 @@
 
 <h4 align="center">
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 523,053 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 523,603 | 🐛 105 | 📅 2026-09-02
 [![Pull Requests Welcome](https://img.shields.io/badge/Pull%20Requests-welcome-brightgreen.svg?logo=github)](#-contributing)
 [![Link Check](https://github.com/janosh/awesome-normalizing-flows/actions/workflows/link-check.yml/badge.svg)](https://github.com/janosh/awesome-normalizing-flows/actions/workflows/link-check.yml)
 [![DOI](https://zenodo.org/badge/227366838.svg)](https://zenodo.org/badge/latestdoi/227366838)
@@ -316,13 +316,13 @@ A list of awesome resources for understanding and applying normalizing flows (NF
 
 ### <img src="assets/pytorch.svg" alt="PyTorch" height="20px">  PyTorch Packages
 
-1. 2022-05-21 - [Zuko](https://github.com/francois-rozet/zuko) ⭐ 466 | 🐛 7 | 🌐 Python | 📅 2026-03-10 by [François Rozet](https://francois-rozet.github.io)
+1. 2022-05-21 - [Zuko](https://github.com/francois-rozet/zuko) ⭐ 467 | 🐛 7 | 🌐 Python | 📅 2026-03-10 by [François Rozet](https://francois-rozet.github.io)
      <img src="https://img.shields.io/github/stars/francois-rozet/zuko" alt="GitHub repo stars" valign="middle" /><br>
    Zuko is a Python package that implements normalizing flows in PyTorch. It relies heavily on PyTorch's built-in distributions and transformations, which makes the implementation concise, easy to understand and extend. The API is fully documented with references to the original papers.
 
 Zuko is used in [LAMPE](https://github.com/francois-rozet/lampe) ⭐ 137 | 🐛 0 | 🌐 Python | 📅 2024-08-21 to enable Likelihood-free AMortized Posterior Estimation with PyTorch.
 
-1. 2020-02-09 - [nflows](https://github.com/bayesiains/nflows) ⭐ 1,021 | 🐛 17 | 🌐 Python | 📅 2024-12-27 by [Bayesiains](https://homepages.inf.ed.ac.uk/imurray2/group)
+1. 2020-02-09 - [nflows](https://github.com/bayesiains/nflows) ⭐ 1,020 | 🐛 17 | 🌐 Python | 📅 2024-12-27 by [Bayesiains](https://homepages.inf.ed.ac.uk/imurray2/group)
      <img src="https://img.shields.io/github/stars/bayesiains/nflows" alt="GitHub repo stars" valign="middle" /><br>
    A suite of most of the SOTA methods using PyTorch. From an ML group in Edinburgh. They created the current SOTA spline flows. Almost as complete as you'll find from a single repo.
 
@@ -397,7 +397,7 @@ Zuko is used in [LAMPE](https://github.com/francois-rozet/lampe) ⭐ 137 | 🐛 
 1. 2020-07-19 - [Normalizing Flows - Introduction (Part 1)](https://pyro.ai/examples/normalizing_flows_i) by [pyro.ai](https://pyro.ai)<br>
    A tutorial about how to use the `pyro-ppl` library (based on PyTorch) to use Normalizing flows. They provide some SOTA methods including NSF and MAF. [Parts 2 and 3 coming later](https://github.com/pyro-ppl/pyro/issues/1992) ⭐ 9,068 | 🐛 312 | 🌐 Python | 📅 2026-10-05.
 
-2. 2021-08-21 - [NICE: Non-linear Independent Components Estimation](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/NICE_Non_linear_Independent_Components_Estimation) ⭐ 2,904 | 🐛 0 | 🌐 Python | 📅 2026-10-21 by Maxime Vandegar
+2. 2021-08-21 - [NICE: Non-linear Independent Components Estimation](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/NICE_Non_linear_Independent_Components_Estimation) ⭐ 2,905 | 🐛 0 | 🌐 Python | 📅 2026-10-22 by Maxime Vandegar
      <img src="https://img.shields.io/github/stars/MaximeVandegar/Papers-in-100-Lines-of-Code" alt="GitHub repo stars" valign="middle" /><br>
    PyTorch implementation that reproduces results from the paper NICE in about 100 lines of code.
 
@@ -479,7 +479,7 @@ Table 1 in the paper has a good comparison with traditional NFs.
 
 2. 2017-03-21 - [NormFlows](https://github.com/andymiller/NormFlows) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2019-06-19 by Andy Miller
      <img src="https://img.shields.io/github/stars/andymiller/NormFlows" alt="GitHub repo stars" valign="middle" /><br>
-   Simple didactic example using [`autograd`](https://github.com/HIPS/autograd) ⭐ 7,547 | 🐛 201 | 🌐 Python | 📅 2026-10-19, so pretty low-level.
+   Simple didactic example using [`autograd`](https://github.com/HIPS/autograd) ⭐ 7,548 | 🐛 201 | 🌐 Python | 📅 2026-10-19, so pretty low-level.
 
 <br>
 
@@ -513,4 +513,4 @@ Papers should be peer-reviewed and published in a journal. If you're unsure if a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._

@@ -47,7 +47,7 @@
             "open_issues": 14,
             "owner": "openai",
             "repo": "iaf",
-            "stars": 527,
+            "stars": 528,
             "topics": [
               "paper"
             ]
@@ -582,7 +582,7 @@
                 "open_issues": 7,
                 "owner": "probabilists",
                 "repo": "zuko",
-                "stars": 466,
+                "stars": 467,
                 "topics": [
                   "deep-learning",
                   "density-estimation",
@@ -610,7 +610,7 @@
                 "open_issues": 17,
                 "owner": "bayesiains",
                 "repo": "nflows",
-                "stars": 1021,
+                "stars": 1020,
                 "topics": [
                   "density-estimation",
                   "generative-model",
@@ -1012,11 +1012,11 @@
                 "id": 307222796,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-21T21:14:00Z",
+                "last_commit": "2026-10-22T23:00:03Z",
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2904,
+                "stars": 2905,
                 "topics": [
                   "3d",
                   "aes",
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T20:43:38.140Z",
+    "last_updated": "2026-10-23T20:36:02.526Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
