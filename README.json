@@ -985,7 +985,7 @@
                 "open_issues": 313,
                 "owner": "pyro-ppl",
                 "repo": "pyro",
-                "stars": 9070,
+                "stars": 9072,
                 "topics": [
                   "bayesian",
                   "bayesian-inference",
@@ -1016,7 +1016,7 @@
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2905,
+                "stars": 2906,
                 "topics": [
                   "3d",
                   "aes",
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T19:41:41.997Z",
+    "last_updated": "2026-10-25T19:53:42.162Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
