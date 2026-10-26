@@ -19,7 +19,7 @@
             "open_issues": 104,
             "owner": "zalandoresearch",
             "repo": "pytorch-ts",
-            "stars": 1370,
+            "stars": 1371,
             "topics": [
               "deepar",
               "lstnet",
@@ -668,7 +668,7 @@
                 "open_issues": 38,
                 "owner": "vislearn",
                 "repo": "FrEIA",
-                "stars": 864,
+                "stars": 865,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -865,7 +865,7 @@
                 "id": 735423333,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T05:32:46Z",
+                "last_commit": "2026-10-26T13:55:55Z",
                 "open_issues": 8,
                 "owner": "kokabsc",
                 "repo": "gwkokab",
@@ -982,10 +982,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-05T18:42:13Z",
-                "open_issues": 313,
+                "open_issues": 314,
                 "owner": "pyro-ppl",
                 "repo": "pyro",
-                "stars": 9072,
+                "stars": 9073,
                 "topics": [
                   "bayesian",
                   "bayesian-inference",
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T19:53:42.162Z",
+    "last_updated": "2026-10-26T21:47:10.748Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",

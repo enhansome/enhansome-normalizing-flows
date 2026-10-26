@@ -6,7 +6,7 @@
 
 <h4 align="center">
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 524,578 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 525,137 | 🐛 105 | 📅 2026-09-02
 [![Pull Requests Welcome](https://img.shields.io/badge/Pull%20Requests-welcome-brightgreen.svg?logo=github)](#-contributing)
 [![Link Check](https://github.com/janosh/awesome-normalizing-flows/actions/workflows/link-check.yml/badge.svg)](https://github.com/janosh/awesome-normalizing-flows/actions/workflows/link-check.yml)
 [![DOI](https://zenodo.org/badge/227366838.svg)](https://zenodo.org/badge/latestdoi/227366838)
@@ -22,7 +22,7 @@ A list of awesome resources for understanding and applying normalizing flows (NF
    </picture>
 </a>
 
-<sup>*Figure inspired by [Lilian Weng](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models). Created in [CeTZ](https://cetz-package.github.io). [View source](https://github.com/janosh/diagrams/blob/main/assets/normalizing-flow/normalizing-flow.typ) ⭐ 705 | 🐛 0 | 🌐 Typst | 📅 2026-10-22.*</sup>
+<sup>*Figure inspired by [Lilian Weng](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models). Created in [CeTZ](https://cetz-package.github.io). [View source](https://github.com/janosh/diagrams/blob/main/assets/normalizing-flow/normalizing-flow.typ) ⭐ 706 | 🐛 0 | 🌐 Typst | 📅 2026-10-22.*</sup>
 
 <br>
 
@@ -50,7 +50,7 @@ A list of awesome resources for understanding and applying normalizing flows (NF
 ## 📝 Publications <small>(60)</small>
 
 1. 2020-09-28 - [Multivariate Probabilistic Time Series Forecasting via Conditioned Normalizing Flows](https://arxiv.org/abs/2002.06103) by Rasul, Sheikh et al.<br>
-   Models the multi-variate temporal dynamics of time series via an autoregressive deep learning model, where the data distribution is represented by a conditioned normalizing flow. \[[OpenReview.net](https://openreview.net/forum?id=WiGQBFuVRv)] \[[Code](https://github.com/zalandoresearch/pytorch-ts) ⭐ 1,370 | 🐛 104 | 🌐 Python | 📅 2024-06-14]
+   Models the multi-variate temporal dynamics of time series via an autoregressive deep learning model, where the data distribution is represented by a conditioned normalizing flow. \[[OpenReview.net](https://openreview.net/forum?id=WiGQBFuVRv)] \[[Code](https://github.com/zalandoresearch/pytorch-ts) ⭐ 1,371 | 🐛 104 | 🌐 Python | 📅 2024-06-14]
 
 2. 2016-06-15 - [Improving Variational Inference with Inverse Autoregressive Flow](https://arxiv.org/abs/1606.04934) by Kingma, Salimans et al.<br>
    Introduces inverse autoregressive flow (IAF), a new type of flow which scales well to high-dimensional latent spaces. \[[Code](https://github.com/openai/iaf) ⚠️ Archived]
@@ -330,7 +330,7 @@ Zuko is used in [LAMPE](https://github.com/francois-rozet/lampe) ⭐ 137 | 🐛 
      <img src="https://img.shields.io/github/stars/VincentStimper/normalizing-flows" alt="GitHub repo stars" valign="middle" /><br>
    The library provides most of the common normalizing flow architectures. It also includes stochastic layers, flows on tori and spheres, and other tools that are particularly useful for applications to the physical sciences.
 
-3. 2018-09-07 - [FrEIA](https://github.com/vislearn/FrEIA) ⭐ 864 | 🐛 38 | 🌐 Python | 📅 2024-07-03 by [VLL Heidelberg](https://github.com/vislearn)
+3. 2018-09-07 - [FrEIA](https://github.com/vislearn/FrEIA) ⭐ 865 | 🐛 38 | 🌐 Python | 📅 2024-07-03 by [VLL Heidelberg](https://github.com/vislearn)
      <img src="https://img.shields.io/github/stars/vislearn/FrEIA" alt="GitHub repo stars" valign="middle" /><br>
    The Framework for Easily Invertible Architectures (FrEIA) is based on RNVP flows. Easy to setup, it allows to define complex Invertible Neural Networks (INNs) from simple invertible building blocks.
 
@@ -370,7 +370,7 @@ Zuko is used in [LAMPE](https://github.com/francois-rozet/lampe) ⭐ 137 | 🐛 
      <img src="https://img.shields.io/github/stars/jfcrenshaw/pzflow" alt="GitHub repo stars" valign="middle" /><br>
    A package that focuses on probabilistic modeling of tabular data, with a focus on sampling and posterior calculation.
 
-5. 2024-07-05 - [GWKokab](https://github.com/gwkokab/gwkokab) ⭐ 29 | 🐛 8 | 🌐 Python | 📅 2026-10-09 by [Meesum Qazalbash](https://github.com/Qazalbash), [Muhammad Zeeshan](https://ccrg.rit.edu/user/muhammad.zeeshan) et al.
+5. 2024-07-05 - [GWKokab](https://github.com/gwkokab/gwkokab) ⭐ 29 | 🐛 8 | 🌐 Python | 📅 2026-10-26 by [Meesum Qazalbash](https://github.com/Qazalbash), [Muhammad Zeeshan](https://ccrg.rit.edu/user/muhammad.zeeshan) et al.
      <img src="https://img.shields.io/github/stars/gwkokab/gwkokab" alt="GitHub repo stars" valign="middle" /><br>
    A JAX-based gravitational-wave population inference toolkit for parametric models \[[Docs](https://gwkokab.readthedocs.io)]
 
@@ -395,7 +395,7 @@ Zuko is used in [LAMPE](https://github.com/francois-rozet/lampe) ⭐ 137 | 🐛 
 ### <img src="assets/pytorch.svg" alt="PyTorch" height="20px">  PyTorch Repos
 
 1. 2020-07-19 - [Normalizing Flows - Introduction (Part 1)](https://pyro.ai/examples/normalizing_flows_i) by [pyro.ai](https://pyro.ai)<br>
-   A tutorial about how to use the `pyro-ppl` library (based on PyTorch) to use Normalizing flows. They provide some SOTA methods including NSF and MAF. [Parts 2 and 3 coming later](https://github.com/pyro-ppl/pyro/issues/1992) ⭐ 9,072 | 🐛 313 | 🌐 Python | 📅 2026-10-05.
+   A tutorial about how to use the `pyro-ppl` library (based on PyTorch) to use Normalizing flows. They provide some SOTA methods including NSF and MAF. [Parts 2 and 3 coming later](https://github.com/pyro-ppl/pyro/issues/1992) ⭐ 9,073 | 🐛 314 | 🌐 Python | 📅 2026-10-05.
 
 2. 2021-08-21 - [NICE: Non-linear Independent Components Estimation](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/NICE_Non_linear_Independent_Components_Estimation) ⭐ 2,906 | 🐛 0 | 🌐 Python | 📅 2026-10-22 by Maxime Vandegar
      <img src="https://img.shields.io/github/stars/MaximeVandegar/Papers-in-100-Lines-of-Code" alt="GitHub repo stars" valign="middle" /><br>
@@ -479,7 +479,7 @@ Table 1 in the paper has a good comparison with traditional NFs.
 
 2. 2017-03-21 - [NormFlows](https://github.com/andymiller/NormFlows) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2019-06-19 by Andy Miller
      <img src="https://img.shields.io/github/stars/andymiller/NormFlows" alt="GitHub repo stars" valign="middle" /><br>
-   Simple didactic example using [`autograd`](https://github.com/HIPS/autograd) ⭐ 7,549 | 🐛 202 | 🌐 Python | 📅 2026-10-19, so pretty low-level.
+   Simple didactic example using [`autograd`](https://github.com/HIPS/autograd) ⭐ 7,549 | 🐛 202 | 🌐 Python | 📅 2026-10-26, so pretty low-level.
 
 <br>
 
@@ -513,4 +513,4 @@ Papers should be peer-reviewed and published in a journal. If you're unsure if a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
