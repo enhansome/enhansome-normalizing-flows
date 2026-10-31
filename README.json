@@ -19,7 +19,7 @@
             "open_issues": 104,
             "owner": "zalandoresearch",
             "repo": "pytorch-ts",
-            "stars": 1371,
+            "stars": 1372,
             "topics": [
               "deepar",
               "lstnet",
@@ -607,7 +607,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-12-27T06:10:31Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "bayesiains",
                 "repo": "nflows",
                 "stars": 1020,
@@ -777,7 +777,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-20T11:27:08Z",
-                "open_issues": 99,
+                "open_issues": 101,
                 "owner": "google-deepmind",
                 "repo": "distrax",
                 "stars": 658,
@@ -1359,7 +1359,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 10010,
+                "stars": 10011,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T21:39:55.360Z",
+    "last_updated": "2026-10-31T20:37:48.237Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
@@ -1407,7 +1407,7 @@
       "open_issues": 0,
       "owner": "janosh",
       "repo": "awesome-normalizing-flows",
-      "stars": 1640,
+      "stars": 1641,
       "topics": [
         "autoregressive",
         "awesome-list",

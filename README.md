@@ -6,7 +6,7 @@
 
 <h4 align="center">
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 527,447 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 527,973 | 🐛 105 | 📅 2026-09-02
 [![Pull Requests Welcome](https://img.shields.io/badge/Pull%20Requests-welcome-brightgreen.svg?logo=github)](#-contributing)
 [![Link Check](https://github.com/janosh/awesome-normalizing-flows/actions/workflows/link-check.yml/badge.svg)](https://github.com/janosh/awesome-normalizing-flows/actions/workflows/link-check.yml)
 [![DOI](https://zenodo.org/badge/227366838.svg)](https://zenodo.org/badge/latestdoi/227366838)
@@ -22,7 +22,7 @@ A list of awesome resources for understanding and applying normalizing flows (NF
    </picture>
 </a>
 
-<sup>*Figure inspired by [Lilian Weng](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models). Created in [CeTZ](https://cetz-package.github.io). [View source](https://github.com/janosh/diagrams/blob/main/assets/normalizing-flow/normalizing-flow.typ) ⭐ 710 | 🐛 0 | 🌐 Typst | 📅 2026-10-22.*</sup>
+<sup>*Figure inspired by [Lilian Weng](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models). Created in [CeTZ](https://cetz-package.github.io). [View source](https://github.com/janosh/diagrams/blob/main/assets/normalizing-flow/normalizing-flow.typ) ⭐ 711 | 🐛 0 | 🌐 Typst | 📅 2026-10-22.*</sup>
 
 <br>
 
@@ -50,7 +50,7 @@ A list of awesome resources for understanding and applying normalizing flows (NF
 ## 📝 Publications <small>(60)</small>
 
 1. 2020-09-28 - [Multivariate Probabilistic Time Series Forecasting via Conditioned Normalizing Flows](https://arxiv.org/abs/2002.06103) by Rasul, Sheikh et al.<br>
-   Models the multi-variate temporal dynamics of time series via an autoregressive deep learning model, where the data distribution is represented by a conditioned normalizing flow. \[[OpenReview.net](https://openreview.net/forum?id=WiGQBFuVRv)] \[[Code](https://github.com/zalandoresearch/pytorch-ts) ⭐ 1,371 | 🐛 104 | 🌐 Python | 📅 2024-06-14]
+   Models the multi-variate temporal dynamics of time series via an autoregressive deep learning model, where the data distribution is represented by a conditioned normalizing flow. \[[OpenReview.net](https://openreview.net/forum?id=WiGQBFuVRv)] \[[Code](https://github.com/zalandoresearch/pytorch-ts) ⭐ 1,372 | 🐛 104 | 🌐 Python | 📅 2024-06-14]
 
 2. 2016-06-15 - [Improving Variational Inference with Inverse Autoregressive Flow](https://arxiv.org/abs/1606.04934) by Kingma, Salimans et al.<br>
    Introduces inverse autoregressive flow (IAF), a new type of flow which scales well to high-dimensional latent spaces. \[[Code](https://github.com/openai/iaf) ⚠️ Archived]
@@ -322,7 +322,7 @@ A list of awesome resources for understanding and applying normalizing flows (NF
 
 Zuko is used in [LAMPE](https://github.com/francois-rozet/lampe) ⭐ 137 | 🐛 0 | 🌐 Python | 📅 2024-08-21 to enable Likelihood-free AMortized Posterior Estimation with PyTorch.
 
-1. 2020-02-09 - [nflows](https://github.com/bayesiains/nflows) ⭐ 1,020 | 🐛 17 | 🌐 Python | 📅 2024-12-27 by [Bayesiains](https://homepages.inf.ed.ac.uk/imurray2/group)
+1. 2020-02-09 - [nflows](https://github.com/bayesiains/nflows) ⭐ 1,020 | 🐛 18 | 🌐 Python | 📅 2024-12-27 by [Bayesiains](https://homepages.inf.ed.ac.uk/imurray2/group)
      <img src="https://img.shields.io/github/stars/bayesiains/nflows" alt="GitHub repo stars" valign="middle" /><br>
    A suite of most of the SOTA methods using PyTorch. From an ML group in Edinburgh. They created the current SOTA spline flows. Almost as complete as you'll find from a single repo.
 
@@ -354,7 +354,7 @@ Zuko is used in [LAMPE](https://github.com/francois-rozet/lampe) ⭐ 137 | 🐛 
 
 ### <img src="assets/jax.svg" alt="JAX" height="20px">  JAX Packages
 
-1. 2021-04-12 - [Distrax](https://github.com/deepmind/distrax) ⭐ 658 | 🐛 99 | 🌐 Python | 📅 2026-10-20 by [DeepMind](https://deepmind.com)
+1. 2021-04-12 - [Distrax](https://github.com/deepmind/distrax) ⭐ 658 | 🐛 101 | 🌐 Python | 📅 2026-10-20 by [DeepMind](https://deepmind.com)
      <img src="https://img.shields.io/github/stars/deepmind/distrax" alt="GitHub repo stars" valign="middle" /><br>
    Distrax is a lightweight library of probability distributions and bijectors. It acts as a JAX-native re-implementation of a subset of TensorFlow Probability (TFP), with some new features and emphasis on extensibility.
 
@@ -475,7 +475,7 @@ Zuko is used in [LAMPE](https://github.com/francois-rozet/lampe) ⭐ 137 | 🐛 
 Table 1 in the paper has a good comparison with traditional NFs.
 
 1. 2017-07-11 - [Normalizing Flows Overview](https://www.pymc.io/projects/examples/en/2022.12.0/variational_inference/normalizing_flows_overview.html) by PyMC3<br>
-   A very helpful notebook showcasing how to work with flows in practice and comparing it to PyMC3's NUTS-based HMC kernel. Based on [Theano](https://github.com/Theano/Theano) ⭐ 10,010 | 🐛 699 | 🌐 Python | 📅 2024-01-15.
+   A very helpful notebook showcasing how to work with flows in practice and comparing it to PyMC3's NUTS-based HMC kernel. Based on [Theano](https://github.com/Theano/Theano) ⭐ 10,011 | 🐛 699 | 🌐 Python | 📅 2024-01-15.
 
 2. 2017-03-21 - [NormFlows](https://github.com/andymiller/NormFlows) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2019-06-19 by Andy Miller
      <img src="https://img.shields.io/github/stars/andymiller/NormFlows" alt="GitHub repo stars" valign="middle" /><br>
@@ -513,4 +513,4 @@ Papers should be peer-reviewed and published in a journal. If you're unsure if a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
