@@ -582,7 +582,7 @@
                 "open_issues": 4,
                 "owner": "probabilists",
                 "repo": "zuko",
-                "stars": 467,
+                "stars": 468,
                 "topics": [
                   "deep-learning",
                   "density-estimation",
@@ -865,8 +865,8 @@
                 "id": 735423333,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T14:04:20Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-01T01:23:10Z",
+                "open_issues": 12,
                 "owner": "kokabsc",
                 "repo": "gwkokab",
                 "stars": 29,
@@ -1359,7 +1359,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 10011,
+                "stars": 10012,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T20:37:48.237Z",
+    "last_updated": "2026-11-01T21:20:41.671Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
