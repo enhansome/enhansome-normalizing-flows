@@ -582,7 +582,7 @@
                 "open_issues": 4,
                 "owner": "probabilists",
                 "repo": "zuko",
-                "stars": 468,
+                "stars": 469,
                 "topics": [
                   "deep-learning",
                   "density-estimation",
@@ -938,7 +938,7 @@
                 "id": 426661999,
                 "language": "Julia",
                 "license": "MIT",
-                "last_commit": "2026-10-27T20:10:26Z",
+                "last_commit": "2026-11-03T16:46:45Z",
                 "open_issues": 2,
                 "owner": "impICNF",
                 "repo": "ContinuousNormalizingFlows.jl",
@@ -982,7 +982,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-05T18:42:13Z",
-                "open_issues": 317,
+                "open_issues": 318,
                 "owner": "pyro-ppl",
                 "repo": "pyro",
                 "stars": 9071,
@@ -1016,7 +1016,7 @@
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2910,
+                "stars": 2912,
                 "topics": [
                   "3d",
                   "aes",
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T00:00:21.938Z",
+    "last_updated": "2026-11-03T22:27:49.558Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
