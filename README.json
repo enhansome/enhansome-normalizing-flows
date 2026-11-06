@@ -582,7 +582,7 @@
                 "open_issues": 4,
                 "owner": "probabilists",
                 "repo": "zuko",
-                "stars": 469,
+                "stars": 470,
                 "topics": [
                   "deep-learning",
                   "density-estimation",
@@ -739,7 +739,7 @@
                 "id": 108053674,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T10:02:01Z",
+                "last_commit": "2026-11-06T18:26:15Z",
                 "open_issues": 736,
                 "owner": "tensorflow",
                 "repo": "probability",
@@ -777,7 +777,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-20T11:27:08Z",
-                "open_issues": 105,
+                "open_issues": 106,
                 "owner": "google-deepmind",
                 "repo": "distrax",
                 "stars": 658,
@@ -865,8 +865,8 @@
                 "id": 735423333,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-01T01:23:10Z",
-                "open_issues": 12,
+                "last_commit": "2026-11-06T17:09:22Z",
+                "open_issues": 9,
                 "owner": "kokabsc",
                 "repo": "gwkokab",
                 "stars": 29,
@@ -985,7 +985,7 @@
                 "open_issues": 321,
                 "owner": "pyro-ppl",
                 "repo": "pyro",
-                "stars": 9071,
+                "stars": 9073,
                 "topics": [
                   "bayesian",
                   "bayesian-inference",
@@ -1359,7 +1359,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 10014,
+                "stars": 10013,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T22:47:27.990Z",
+    "last_updated": "2026-11-06T22:16:42.908Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",

@@ -6,7 +6,7 @@
 
 <h4 align="center">
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 531,722 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 532,428 | 🐛 103 | 📅 2026-09-02
 [![Pull Requests Welcome](https://img.shields.io/badge/Pull%20Requests-welcome-brightgreen.svg?logo=github)](#-contributing)
 [![Link Check](https://github.com/janosh/awesome-normalizing-flows/actions/workflows/link-check.yml/badge.svg)](https://github.com/janosh/awesome-normalizing-flows/actions/workflows/link-check.yml)
 [![DOI](https://zenodo.org/badge/227366838.svg)](https://zenodo.org/badge/latestdoi/227366838)
@@ -316,7 +316,7 @@ A list of awesome resources for understanding and applying normalizing flows (NF
 
 ### <img src="assets/pytorch.svg" alt="PyTorch" height="20px">  PyTorch Packages
 
-1. 2022-05-21 - [Zuko](https://github.com/francois-rozet/zuko) ⭐ 469 | 🐛 4 | 🌐 Python | 📅 2026-10-27 by [François Rozet](https://francois-rozet.github.io)
+1. 2022-05-21 - [Zuko](https://github.com/francois-rozet/zuko) ⭐ 470 | 🐛 4 | 🌐 Python | 📅 2026-10-27 by [François Rozet](https://francois-rozet.github.io)
      <img src="https://img.shields.io/github/stars/francois-rozet/zuko" alt="GitHub repo stars" valign="middle" /><br>
    Zuko is a Python package that implements normalizing flows in PyTorch. It relies heavily on PyTorch's built-in distributions and transformations, which makes the implementation concise, easy to understand and extend. The API is fully documented with references to the original papers.
 
@@ -346,7 +346,7 @@ Zuko is used in [LAMPE](https://github.com/francois-rozet/lampe) ⭐ 137 | 🐛 
 
 ### <img src="assets/tensorflow.svg" alt="TensorFlow" height="20px">  TensorFlow Packages
 
-1. 2018-06-22 - [TensorFlow Probability](https://github.com/tensorflow/probability) ⭐ 4,446 | 🐛 736 | 🌐 Jupyter Notebook | 📅 2026-10-27 by [Google](https://tensorflow.org/probability)
+1. 2018-06-22 - [TensorFlow Probability](https://github.com/tensorflow/probability) ⭐ 4,446 | 🐛 736 | 🌐 Jupyter Notebook | 📅 2026-11-06 by [Google](https://tensorflow.org/probability)
      <img src="https://img.shields.io/github/stars/tensorflow/probability" alt="GitHub repo stars" valign="middle" /><br>
    Large first-party library that offers RNVP, MAF among other autoregressive models plus a collection of composable bijectors.
 
@@ -354,7 +354,7 @@ Zuko is used in [LAMPE](https://github.com/francois-rozet/lampe) ⭐ 137 | 🐛 
 
 ### <img src="assets/jax.svg" alt="JAX" height="20px">  JAX Packages
 
-1. 2021-04-12 - [Distrax](https://github.com/deepmind/distrax) ⭐ 658 | 🐛 105 | 🌐 Python | 📅 2026-10-20 by [DeepMind](https://deepmind.com)
+1. 2021-04-12 - [Distrax](https://github.com/deepmind/distrax) ⭐ 658 | 🐛 106 | 🌐 Python | 📅 2026-10-20 by [DeepMind](https://deepmind.com)
      <img src="https://img.shields.io/github/stars/deepmind/distrax" alt="GitHub repo stars" valign="middle" /><br>
    Distrax is a lightweight library of probability distributions and bijectors. It acts as a JAX-native re-implementation of a subset of TensorFlow Probability (TFP), with some new features and emphasis on extensibility.
 
@@ -370,7 +370,7 @@ Zuko is used in [LAMPE](https://github.com/francois-rozet/lampe) ⭐ 137 | 🐛 
      <img src="https://img.shields.io/github/stars/jfcrenshaw/pzflow" alt="GitHub repo stars" valign="middle" /><br>
    A package that focuses on probabilistic modeling of tabular data, with a focus on sampling and posterior calculation.
 
-5. 2024-07-05 - [GWKokab](https://github.com/gwkokab/gwkokab) ⭐ 29 | 🐛 12 | 🌐 Python | 📅 2026-11-01 by [Meesum Qazalbash](https://github.com/Qazalbash), [Muhammad Zeeshan](https://ccrg.rit.edu/user/muhammad.zeeshan) et al.
+5. 2024-07-05 - [GWKokab](https://github.com/gwkokab/gwkokab) ⭐ 29 | 🐛 9 | 🌐 Python | 📅 2026-11-06 by [Meesum Qazalbash](https://github.com/Qazalbash), [Muhammad Zeeshan](https://ccrg.rit.edu/user/muhammad.zeeshan) et al.
      <img src="https://img.shields.io/github/stars/gwkokab/gwkokab" alt="GitHub repo stars" valign="middle" /><br>
    A JAX-based gravitational-wave population inference toolkit for parametric models \[[Docs](https://gwkokab.readthedocs.io)]
 
@@ -395,7 +395,7 @@ Zuko is used in [LAMPE](https://github.com/francois-rozet/lampe) ⭐ 137 | 🐛 
 ### <img src="assets/pytorch.svg" alt="PyTorch" height="20px">  PyTorch Repos
 
 1. 2020-07-19 - [Normalizing Flows - Introduction (Part 1)](https://pyro.ai/examples/normalizing_flows_i) by [pyro.ai](https://pyro.ai)<br>
-   A tutorial about how to use the `pyro-ppl` library (based on PyTorch) to use Normalizing flows. They provide some SOTA methods including NSF and MAF. [Parts 2 and 3 coming later](https://github.com/pyro-ppl/pyro/issues/1992) ⭐ 9,071 | 🐛 321 | 🌐 Python | 📅 2026-10-05.
+   A tutorial about how to use the `pyro-ppl` library (based on PyTorch) to use Normalizing flows. They provide some SOTA methods including NSF and MAF. [Parts 2 and 3 coming later](https://github.com/pyro-ppl/pyro/issues/1992) ⭐ 9,073 | 🐛 321 | 🌐 Python | 📅 2026-10-05.
 
 2. 2021-08-21 - [NICE: Non-linear Independent Components Estimation](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/NICE_Non_linear_Independent_Components_Estimation) ⭐ 2,911 | 🐛 0 | 🌐 Python | 📅 2026-10-22 by Maxime Vandegar
      <img src="https://img.shields.io/github/stars/MaximeVandegar/Papers-in-100-Lines-of-Code" alt="GitHub repo stars" valign="middle" /><br>
@@ -475,11 +475,11 @@ Zuko is used in [LAMPE](https://github.com/francois-rozet/lampe) ⭐ 137 | 🐛 
 Table 1 in the paper has a good comparison with traditional NFs.
 
 1. 2017-07-11 - [Normalizing Flows Overview](https://www.pymc.io/projects/examples/en/2022.12.0/variational_inference/normalizing_flows_overview.html) by PyMC3<br>
-   A very helpful notebook showcasing how to work with flows in practice and comparing it to PyMC3's NUTS-based HMC kernel. Based on [Theano](https://github.com/Theano/Theano) ⭐ 10,014 | 🐛 699 | 🌐 Python | 📅 2024-01-15.
+   A very helpful notebook showcasing how to work with flows in practice and comparing it to PyMC3's NUTS-based HMC kernel. Based on [Theano](https://github.com/Theano/Theano) ⭐ 10,013 | 🐛 699 | 🌐 Python | 📅 2024-01-15.
 
 2. 2017-03-21 - [NormFlows](https://github.com/andymiller/NormFlows) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2019-06-19 by Andy Miller
      <img src="https://img.shields.io/github/stars/andymiller/NormFlows" alt="GitHub repo stars" valign="middle" /><br>
-   Simple didactic example using [`autograd`](https://github.com/HIPS/autograd) ⭐ 7,552 | 🐛 206 | 🌐 Python | 📅 2026-11-05, so pretty low-level.
+   Simple didactic example using [`autograd`](https://github.com/HIPS/autograd) ⭐ 7,552 | 🐛 211 | 🌐 Python | 📅 2026-11-05, so pretty low-level.
 
 <br>
 
@@ -513,4 +513,4 @@ Papers should be peer-reviewed and published in a journal. If you're unsure if a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
