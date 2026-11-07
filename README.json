@@ -739,7 +739,7 @@
                 "id": 108053674,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T18:26:15Z",
+                "last_commit": "2026-11-07T08:14:13Z",
                 "open_issues": 736,
                 "owner": "tensorflow",
                 "repo": "probability",
@@ -1016,7 +1016,7 @@
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2911,
+                "stars": 2912,
                 "topics": [
                   "3d",
                   "aes",
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T22:16:42.908Z",
+    "last_updated": "2026-11-07T21:01:54.130Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
@@ -1407,7 +1407,7 @@
       "open_issues": 0,
       "owner": "janosh",
       "repo": "awesome-normalizing-flows",
-      "stars": 1641,
+      "stars": 1642,
       "topics": [
         "autoregressive",
         "awesome-list",
