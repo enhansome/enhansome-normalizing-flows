@@ -582,7 +582,7 @@
                 "open_issues": 4,
                 "owner": "probabilists",
                 "repo": "zuko",
-                "stars": 470,
+                "stars": 471,
                 "topics": [
                   "deep-learning",
                   "density-estimation",
@@ -636,7 +636,7 @@
                 "open_issues": 15,
                 "owner": "VincentStimper",
                 "repo": "normalizing-flows",
-                "stars": 961,
+                "stars": 962,
                 "topics": [
                   "density-estimation",
                   "glow",
@@ -739,11 +739,11 @@
                 "id": 108053674,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-07T08:14:13Z",
-                "open_issues": 736,
+                "last_commit": "2026-11-09T19:59:04Z",
+                "open_issues": 737,
                 "owner": "tensorflow",
                 "repo": "probability",
-                "stars": 4445,
+                "stars": 4444,
                 "topics": [
                   "bayesian-methods",
                   "data-science",
@@ -1084,7 +1084,7 @@
                 "open_issues": 9,
                 "owner": "karpathy",
                 "repo": "pytorch-normalizing-flows",
-                "stars": 921,
+                "stars": 922,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T21:19:09.357Z",
+    "last_updated": "2026-11-10T00:49:20.223Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
