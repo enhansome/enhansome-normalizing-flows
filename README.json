@@ -776,11 +776,11 @@
                 "id": 353770320,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T11:27:08Z",
+                "last_commit": "2026-11-11T16:26:13Z",
                 "open_issues": 106,
                 "owner": "google-deepmind",
                 "repo": "distrax",
-                "stars": 657,
+                "stars": 658,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -985,7 +985,7 @@
                 "open_issues": 322,
                 "owner": "pyro-ppl",
                 "repo": "pyro",
-                "stars": 9075,
+                "stars": 9076,
                 "topics": [
                   "bayesian",
                   "bayesian-inference",
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T22:29:15.836Z",
+    "last_updated": "2026-11-11T23:38:02.719Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
