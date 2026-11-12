@@ -582,7 +582,7 @@
                 "open_issues": 4,
                 "owner": "probabilists",
                 "repo": "zuko",
-                "stars": 471,
+                "stars": 472,
                 "topics": [
                   "deep-learning",
                   "density-estimation",
@@ -1016,7 +1016,7 @@
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2912,
+                "stars": 2913,
                 "topics": [
                   "3d",
                   "aes",
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T23:38:02.719Z",
+    "last_updated": "2026-11-12T22:50:05.091Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
