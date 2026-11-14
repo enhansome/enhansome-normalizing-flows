@@ -47,7 +47,7 @@
             "open_issues": 14,
             "owner": "openai",
             "repo": "iaf",
-            "stars": 528,
+            "stars": 527,
             "topics": [
               "paper"
             ]
@@ -740,7 +740,7 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-09T19:59:04Z",
-                "open_issues": 737,
+                "open_issues": 739,
                 "owner": "tensorflow",
                 "repo": "probability",
                 "stars": 4445,
@@ -777,7 +777,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-11T16:26:13Z",
-                "open_issues": 106,
+                "open_issues": 107,
                 "owner": "google-deepmind",
                 "repo": "distrax",
                 "stars": 658,
@@ -1359,7 +1359,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 10014,
+                "stars": 10016,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T22:46:56.452Z",
+    "last_updated": "2026-11-14T21:39:28.915Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
