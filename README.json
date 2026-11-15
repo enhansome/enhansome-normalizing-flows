@@ -610,7 +610,7 @@
                 "open_issues": 18,
                 "owner": "bayesiains",
                 "repo": "nflows",
-                "stars": 1020,
+                "stars": 1021,
                 "topics": [
                   "density-estimation",
                   "generative-model",
@@ -743,7 +743,7 @@
                 "open_issues": 739,
                 "owner": "tensorflow",
                 "repo": "probability",
-                "stars": 4445,
+                "stars": 4446,
                 "topics": [
                   "bayesian-methods",
                   "data-science",
@@ -1016,7 +1016,7 @@
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2914,
+                "stars": 2915,
                 "topics": [
                   "3d",
                   "aes",
@@ -1359,7 +1359,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 10016,
+                "stars": 10017,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T21:39:28.915Z",
+    "last_updated": "2026-11-15T21:59:49.906Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
