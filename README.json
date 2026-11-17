@@ -610,7 +610,7 @@
                 "open_issues": 18,
                 "owner": "bayesiains",
                 "repo": "nflows",
-                "stars": 1021,
+                "stars": 1020,
                 "topics": [
                   "density-estimation",
                   "generative-model",
@@ -938,7 +938,7 @@
                 "id": 426661999,
                 "language": "Julia",
                 "license": "MIT",
-                "last_commit": "2026-11-10T16:47:59Z",
+                "last_commit": "2026-11-17T17:58:46Z",
                 "open_issues": 2,
                 "owner": "impICNF",
                 "repo": "ContinuousNormalizingFlows.jl",
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T00:59:12.421Z",
+    "last_updated": "2026-11-17T23:55:32.559Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
