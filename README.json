@@ -47,7 +47,7 @@
             "open_issues": 14,
             "owner": "openai",
             "repo": "iaf",
-            "stars": 527,
+            "stars": 528,
             "topics": [
               "paper"
             ]
@@ -776,11 +776,11 @@
                 "id": 353770320,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-11T16:26:13Z",
-                "open_issues": 107,
+                "last_commit": "2026-11-16T17:56:42Z",
+                "open_issues": 106,
                 "owner": "google-deepmind",
                 "repo": "distrax",
-                "stars": 658,
+                "stars": 659,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -982,10 +982,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-05T18:42:13Z",
-                "open_issues": 324,
+                "open_issues": 325,
                 "owner": "pyro-ppl",
                 "repo": "pyro",
-                "stars": 9076,
+                "stars": 9077,
                 "topics": [
                   "bayesian",
                   "bayesian-inference",
@@ -1084,7 +1084,7 @@
                 "open_issues": 9,
                 "owner": "karpathy",
                 "repo": "pytorch-normalizing-flows",
-                "stars": 922,
+                "stars": 923,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T21:59:49.906Z",
+    "last_updated": "2026-11-17T00:59:12.421Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
