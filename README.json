@@ -47,7 +47,7 @@
             "open_issues": 14,
             "owner": "openai",
             "repo": "iaf",
-            "stars": 528,
+            "stars": 527,
             "topics": [
               "paper"
             ]
@@ -740,10 +740,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-09T19:59:04Z",
-                "open_issues": 739,
+                "open_issues": 740,
                 "owner": "tensorflow",
                 "repo": "probability",
-                "stars": 4446,
+                "stars": 4445,
                 "topics": [
                   "bayesian-methods",
                   "data-science",
@@ -801,7 +801,7 @@
                 "open_issues": 24,
                 "owner": "kazewong",
                 "repo": "flowMC",
-                "stars": 265,
+                "stars": 266,
                 "topics": [
                   "jax",
                   "mcmc",
@@ -985,7 +985,7 @@
                 "open_issues": 325,
                 "owner": "pyro-ppl",
                 "repo": "pyro",
-                "stars": 9078,
+                "stars": 9077,
                 "topics": [
                   "bayesian",
                   "bayesian-inference",
@@ -1359,7 +1359,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 10019,
+                "stars": 10018,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T23:30:14.249Z",
+    "last_updated": "2026-11-19T23:43:49.400Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
