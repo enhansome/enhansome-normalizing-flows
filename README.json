@@ -582,7 +582,7 @@
                 "open_issues": 6,
                 "owner": "probabilists",
                 "repo": "zuko",
-                "stars": 472,
+                "stars": 473,
                 "topics": [
                   "deep-learning",
                   "density-estimation",
@@ -668,7 +668,7 @@
                 "open_issues": 38,
                 "owner": "vislearn",
                 "repo": "FrEIA",
-                "stars": 865,
+                "stars": 866,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -801,7 +801,7 @@
                 "open_issues": 24,
                 "owner": "kazewong",
                 "repo": "flowMC",
-                "stars": 266,
+                "stars": 267,
                 "topics": [
                   "jax",
                   "mcmc",
@@ -985,7 +985,7 @@
                 "open_issues": 325,
                 "owner": "pyro-ppl",
                 "repo": "pyro",
-                "stars": 9077,
+                "stars": 9078,
                 "topics": [
                   "bayesian",
                   "bayesian-inference",
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T23:43:49.400Z",
+    "last_updated": "2026-11-20T23:17:16.405Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
