@@ -6,7 +6,7 @@
 
 <h4 align="center">
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 540,007 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 540,509 | 🐛 103 | 📅 2026-09-02
 [![Pull Requests Welcome](https://img.shields.io/badge/Pull%20Requests-welcome-brightgreen.svg?logo=github)](#-contributing)
 [![Link Check](https://github.com/janosh/awesome-normalizing-flows/actions/workflows/link-check.yml/badge.svg)](https://github.com/janosh/awesome-normalizing-flows/actions/workflows/link-check.yml)
 [![DOI](https://zenodo.org/badge/227366838.svg)](https://zenodo.org/badge/latestdoi/227366838)
@@ -22,7 +22,7 @@ A list of awesome resources for understanding and applying normalizing flows (NF
    </picture>
 </a>
 
-<sup>*Figure inspired by [Lilian Weng](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models). Created in [CeTZ](https://cetz-package.github.io). [View source](https://github.com/janosh/diagrams/blob/main/assets/normalizing-flow/normalizing-flow.typ) ⭐ 715 | 🐛 0 | 🌐 Typst | 📅 2026-11-01.*</sup>
+<sup>*Figure inspired by [Lilian Weng](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models). Created in [CeTZ](https://cetz-package.github.io). [View source](https://github.com/janosh/diagrams/blob/main/assets/normalizing-flow/normalizing-flow.typ) ⭐ 715 | 🐛 0 | 🌐 Typst | 📅 2026-11-21.*</sup>
 
 <br>
 
@@ -346,7 +346,7 @@ Zuko is used in [LAMPE](https://github.com/francois-rozet/lampe) ⭐ 137 | 🐛 
 
 ### <img src="assets/tensorflow.svg" alt="TensorFlow" height="20px">  TensorFlow Packages
 
-1. 2018-06-22 - [TensorFlow Probability](https://github.com/tensorflow/probability) ⭐ 4,445 | 🐛 740 | 🌐 Jupyter Notebook | 📅 2026-11-09 by [Google](https://tensorflow.org/probability)
+1. 2018-06-22 - [TensorFlow Probability](https://github.com/tensorflow/probability) ⭐ 4,445 | 🐛 742 | 🌐 Jupyter Notebook | 📅 2026-11-09 by [Google](https://tensorflow.org/probability)
      <img src="https://img.shields.io/github/stars/tensorflow/probability" alt="GitHub repo stars" valign="middle" /><br>
    Large first-party library that offers RNVP, MAF among other autoregressive models plus a collection of composable bijectors.
 
@@ -366,7 +366,7 @@ Zuko is used in [LAMPE](https://github.com/francois-rozet/lampe) ⭐ 137 | 🐛 
      <img src="https://img.shields.io/github/stars/Information-Fusion-Lab-Umass/NuX" alt="GitHub repo stars" valign="middle" /><br>
    A library that offers normalizing flows using JAX as the backend. Has some SOTA methods. They also feature a surjective flow via quantization.
 
-4. 2021-06-17 - [pzflow](https://github.com/jfcrenshaw/pzflow) ⭐ 64 | 🐛 4 | 🌐 Python | 📅 2026-05-06 by [John Franklin Crenshaw](https://jfcrenshaw.github.io)
+4. 2021-06-17 - [pzflow](https://github.com/jfcrenshaw/pzflow) ⭐ 64 | 🐛 5 | 🌐 Python | 📅 2026-05-06 by [John Franklin Crenshaw](https://jfcrenshaw.github.io)
      <img src="https://img.shields.io/github/stars/jfcrenshaw/pzflow" alt="GitHub repo stars" valign="middle" /><br>
    A package that focuses on probabilistic modeling of tabular data, with a focus on sampling and posterior calculation.
 
@@ -475,7 +475,7 @@ Zuko is used in [LAMPE](https://github.com/francois-rozet/lampe) ⭐ 137 | 🐛 
 Table 1 in the paper has a good comparison with traditional NFs.
 
 1. 2017-07-11 - [Normalizing Flows Overview](https://www.pymc.io/projects/examples/en/2022.12.0/variational_inference/normalizing_flows_overview.html) by PyMC3<br>
-   A very helpful notebook showcasing how to work with flows in practice and comparing it to PyMC3's NUTS-based HMC kernel. Based on [Theano](https://github.com/Theano/Theano) ⭐ 10,018 | 🐛 699 | 🌐 Python | 📅 2024-01-15.
+   A very helpful notebook showcasing how to work with flows in practice and comparing it to PyMC3's NUTS-based HMC kernel. Based on [Theano](https://github.com/Theano/Theano) ⭐ 10,017 | 🐛 699 | 🌐 Python | 📅 2024-01-15.
 
 2. 2017-03-21 - [NormFlows](https://github.com/andymiller/NormFlows) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2019-06-19 by Andy Miller
      <img src="https://img.shields.io/github/stars/andymiller/NormFlows" alt="GitHub repo stars" valign="middle" /><br>
@@ -513,4 +513,4 @@ Papers should be peer-reviewed and published in a journal. If you're unsure if a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
