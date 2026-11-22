@@ -982,7 +982,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-05T18:42:13Z",
-                "open_issues": 325,
+                "open_issues": 327,
                 "owner": "pyro-ppl",
                 "repo": "pyro",
                 "stars": 9078,
@@ -1016,7 +1016,7 @@
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2915,
+                "stars": 2916,
                 "topics": [
                   "3d",
                   "aes",
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T22:17:51.816Z",
+    "last_updated": "2026-11-22T22:42:50.945Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
@@ -1407,7 +1407,7 @@
       "open_issues": 0,
       "owner": "janosh",
       "repo": "awesome-normalizing-flows",
-      "stars": 1644,
+      "stars": 1645,
       "topics": [
         "autoregressive",
         "awesome-list",
