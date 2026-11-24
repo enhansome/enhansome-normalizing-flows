@@ -636,7 +636,7 @@
                 "open_issues": 15,
                 "owner": "VincentStimper",
                 "repo": "normalizing-flows",
-                "stars": 962,
+                "stars": 963,
                 "topics": [
                   "density-estimation",
                   "glow",
@@ -985,7 +985,7 @@
                 "open_issues": 327,
                 "owner": "pyro-ppl",
                 "repo": "pyro",
-                "stars": 9078,
+                "stars": 9079,
                 "topics": [
                   "bayesian",
                   "bayesian-inference",
@@ -1016,7 +1016,7 @@
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2916,
+                "stars": 2917,
                 "topics": [
                   "3d",
                   "aes",
@@ -1359,7 +1359,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 10017,
+                "stars": 10019,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T22:42:50.945Z",
+    "last_updated": "2026-11-24T03:26:06.442Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
