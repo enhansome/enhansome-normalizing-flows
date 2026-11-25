@@ -6,7 +6,7 @@
 
 <h4 align="center">
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 541,747 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 542,352 | 🐛 103 | 📅 2026-09-02
 [![Pull Requests Welcome](https://img.shields.io/badge/Pull%20Requests-welcome-brightgreen.svg?logo=github)](#-contributing)
 [![Link Check](https://github.com/janosh/awesome-normalizing-flows/actions/workflows/link-check.yml/badge.svg)](https://github.com/janosh/awesome-normalizing-flows/actions/workflows/link-check.yml)
 [![DOI](https://zenodo.org/badge/227366838.svg)](https://zenodo.org/badge/latestdoi/227366838)
@@ -382,7 +382,7 @@ Zuko is used in [LAMPE](https://github.com/francois-rozet/lampe) ⭐ 137 | 🐛 
      <img src="https://img.shields.io/github/stars/slimgroup/InvertibleNetworks.jl" alt="GitHub repo stars" valign="middle" /><br>
    A Flux compatible library implementing invertible neural networks and normalizing flows using memory-efficient backpropagation. Uses manually implemented gradients to take advantage of the invertibility of building blocks, which allows for scaling to large-scale problem sizes.
 
-2. 2021-11-07 - [ContinuousNormalizingFlows.jl](https://github.com/impICNF/ContinuousNormalizingFlows.jl) ⭐ 27 | 🐛 2 | 🌐 Julia | 📅 2026-11-17 by [Hossein Pourbozorg](https://github.com/prbzrg)
+2. 2021-11-07 - [ContinuousNormalizingFlows.jl](https://github.com/impICNF/ContinuousNormalizingFlows.jl) ⭐ 27 | 🐛 2 | 🌐 Julia | 📅 2026-11-24 by [Hossein Pourbozorg](https://github.com/prbzrg)
      <img src="https://img.shields.io/github/stars/impICNF/ContinuousNormalizingFlows.jl" alt="GitHub repo stars" valign="middle" /><br>
    Implementations of Infinitesimal Continuous Normalizing Flows Algorithms in Julia. \[[Docs](https://impicnf.github.io/ContinuousNormalizingFlows.jl)]
 
@@ -513,4 +513,4 @@ Papers should be peer-reviewed and published in a journal. If you're unsure if a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._

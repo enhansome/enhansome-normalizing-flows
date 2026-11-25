@@ -938,7 +938,7 @@
                 "id": 426661999,
                 "language": "Julia",
                 "license": "MIT",
-                "last_commit": "2026-11-17T17:58:46Z",
+                "last_commit": "2026-11-24T19:52:58Z",
                 "open_issues": 2,
                 "owner": "impICNF",
                 "repo": "ContinuousNormalizingFlows.jl",
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T03:26:06.442Z",
+    "last_updated": "2026-11-25T01:31:17.570Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
