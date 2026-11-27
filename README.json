@@ -633,7 +633,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-08-25T09:44:06Z",
-                "open_issues": 15,
+                "open_issues": 16,
                 "owner": "VincentStimper",
                 "repo": "normalizing-flows",
                 "stars": 963,
@@ -985,7 +985,7 @@
                 "open_issues": 327,
                 "owner": "pyro-ppl",
                 "repo": "pyro",
-                "stars": 9081,
+                "stars": 9082,
                 "topics": [
                   "bayesian",
                   "bayesian-inference",
@@ -1359,7 +1359,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 10018,
+                "stars": 10017,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T01:05:52.980Z",
+    "last_updated": "2026-11-27T01:07:09.886Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
