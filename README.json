@@ -743,7 +743,7 @@
                 "open_issues": 742,
                 "owner": "tensorflow",
                 "repo": "probability",
-                "stars": 4445,
+                "stars": 4446,
                 "topics": [
                   "bayesian-methods",
                   "data-science",
@@ -1359,7 +1359,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 10017,
+                "stars": 10016,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:53.776Z"
@@ -1395,7 +1395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T01:07:09.886Z",
+    "last_updated": "2026-11-28T00:39:00.475Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources on normalizing flows.",
